@@ -1,0 +1,125 @@
+{
+  "command_id": "seq_template_20260116_090741",
+  "action": "createSequenceFromTemplate",
+  "parameters": {
+    "template_config": {
+      "sequence_name": "Product Demo - Launch Video",
+      "template_id": "product_demo_dynamic",
+      "template_name": "Dynamic Product Demo",
+      "sequence_settings": {
+        "width": 1920,
+        "height": 1080,
+        "frameRate": 60,
+        "audioSampleRate": 48000,
+        "videoTrackCount": 4,
+        "audioTrackCount": 3,
+        "pixelAspectRatio": 1.0,
+        "fieldType": "progressive"
+      },
+      "timeline_structure": {
+        "video_tracks": [
+          {
+            "track_number": 1,
+            "name": "Main Product",
+            "locked": false,
+            "description": "Primary product footage"
+          },
+          {
+            "track_number": 2,
+            "name": "Detail Shots",
+            "locked": false,
+            "description": "Close-up features and details"
+          },
+          {
+            "track_number": 3,
+            "name": "Graphics/CTAs",
+            "locked": false,
+            "description": "Feature callouts and CTAs"
+          },
+          {
+            "track_number": 4,
+            "name": "Transitions/Effects",
+            "locked": false,
+            "description": "Dynamic transitions and overlays"
+          }
+        ],
+        "audio_tracks": [
+          {
+            "track_number": 1,
+            "name": "Voiceover",
+            "locked": false,
+            "description": "Product narration"
+          },
+          {
+            "track_number": 2,
+            "name": "Upbeat Music",
+            "locked": false,
+            "description": "Energetic background music"
+          },
+          {
+            "track_number": 3,
+            "name": "Product SFX",
+            "locked": false,
+            "description": "Product sounds and whooshes"
+          }
+        ]
+      },
+      "default_transitions": {
+        "video": {
+          "name": "Impact Push",
+          "duration_frames": 10,
+          "alignment": "start"
+        },
+        "audio": {
+          "name": "Constant Power",
+          "duration_frames": 10
+        }
+      },
+      "effects_presets": [
+        {
+          "name": "Vibrant Colors",
+          "effect": "Lumetri Color",
+          "preset": "Vibrant - High Saturation",
+          "track_type": "video",
+          "recommended_tracks": [
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Motion Blur",
+          "effect": "Transform",
+          "preset": "Dynamic Movement",
+          "track_type": "video",
+          "recommended_tracks": [
+            1,
+            2
+          ]
+        },
+        {
+          "name": "Audio Punch",
+          "effect": "Multiband Compressor",
+          "preset": "Punchy Mix",
+          "track_type": "audio",
+          "recommended_tracks": [
+            2
+          ]
+        }
+      ],
+      "recommended_pacing": {
+        "average_shot_duration_seconds": 2.5,
+        "transition_frequency": "high",
+        "cta_placement_strategy": "aggressive"
+      },
+      "metadata": {
+        "generated_by": "Unwind Visual Cortex",
+        "generated_at": "2026-01-16T09:07:41.022129",
+        "template_version": "1.0",
+        "brand_colors": [
+          "#FF5733"
+        ]
+      }
+    }
+  },
+  "timestamp": "2026-01-16T09:07:41.022154"
+}

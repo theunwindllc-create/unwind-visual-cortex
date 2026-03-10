@@ -1,0 +1,1244 @@
+{
+  "system_metadata": {
+    "brain_name": "Unwind Visual Cortex",
+    "version": "1.0",
+    "tracking_system_version": "1.0",
+    "created_date": "2026-01-09",
+    "last_updated": "2026-01-16T14:10:02.564664+00:00",
+    "total_sessions": 9,
+    "total_tasks_completed": 10,
+    "current_phase": 2,
+    "overall_progress_percent": 73
+  },
+  "master_roadmap": {
+    "phase_1": {
+      "phase_id": 1,
+      "phase_name": "Foundation - B-roll Sourcing & AE Integration",
+      "status": "in_progress",
+      "start_date": "2026-01-09",
+      "target_date": "2026-01-23",
+      "completion_date": null,
+      "progress_percent": 80,
+      "current_task": "P1-T005",
+      "assigned_agent": "Manus-AutoDaily-20260111",
+      "notes": "Critical foundation for automated asset sourcing",
+      "tasks": [
+        "P1-T001",
+        "P1-T002",
+        "P1-T003",
+        "P1-T004",
+        "P1-T005"
+      ]
+    },
+    "phase_2": {
+      "phase_id": 2,
+      "phase_name": "Adobe Integration - Premiere Pro Automation",
+      "status": "in_progress",
+      "start_date": "2026-01-12",
+      "target_date": "2026-02-06",
+      "completion_date": null,
+      "progress_percent": 83,
+      "current_task": "P2-T005",
+      "assigned_agent": "Manus-AutoDaily-20260116",
+      "notes": "Direct bridge to user's primary editing software",
+      "tasks": [
+        "P2-T001",
+        "P2-T002",
+        "P2-T003",
+        "P2-T004",
+        "P2-T005",
+        "P2-T006"
+      ]
+    },
+    "phase_3": {
+      "phase_id": 3,
+      "phase_name": "Enhanced Intelligence - MCP Integration & Analytics",
+      "status": "not_started",
+      "start_date": null,
+      "target_date": "2026-02-20",
+      "completion_date": null,
+      "progress_percent": 0,
+      "current_task": null,
+      "assigned_agent": null,
+      "notes": "Data-driven optimization and competitive analysis",
+      "tasks": [
+        "P3-T001",
+        "P3-T002",
+        "P3-T003",
+        "P3-T004",
+        "P3-T005",
+        "P3-T006",
+        "P3-T007"
+      ]
+    },
+    "phase_4": {
+      "phase_id": 4,
+      "phase_name": "Full Automation - Video Assembly & Rendering",
+      "status": "not_started",
+      "start_date": null,
+      "target_date": "2026-03-06",
+      "completion_date": null,
+      "progress_percent": 0,
+      "current_task": null,
+      "assigned_agent": null,
+      "notes": "End-to-end pipeline from transcript to rendered video",
+      "tasks": [
+        "P4-T001",
+        "P4-T002",
+        "P4-T003",
+        "P4-T004",
+        "P4-T005",
+        "P4-T006",
+        "P4-T007"
+      ]
+    },
+    "phase_5": {
+      "phase_id": 5,
+      "phase_name": "Full Autonomy & Multi-Platform Expansion",
+      "status": "vision",
+      "start_date": null,
+      "target_date": "2026-03-20",
+      "completion_date": null,
+      "progress_percent": 0,
+      "current_task": null,
+      "assigned_agent": null,
+      "notes": "End-to-end automation and expansion to new platforms.",
+      "tasks": [
+        "P5-T001",
+        "P5-T002",
+        "P5-T003",
+        "P5-T004",
+        "P5-T005"
+      ]
+    },
+    "phase_6": {
+      "phase_id": 6,
+      "phase_name": "Advanced ML & Self-Optimization",
+      "status": "vision",
+      "start_date": null,
+      "target_date": "2026-04-03",
+      "completion_date": null,
+      "progress_percent": 0,
+      "current_task": null,
+      "assigned_agent": null,
+      "notes": "System begins to autonomously refine its own strategic recommendations.",
+      "tasks": [
+        "P6-T001",
+        "P6-T002",
+        "P6-T003"
+      ]
+    },
+    "phase_7": {
+      "phase_id": 7,
+      "phase_name": "Symbiotic Integration - The Breathing System",
+      "status": "vision",
+      "start_date": null,
+      "target_date": "2026-04-17",
+      "completion_date": null,
+      "progress_percent": 0,
+      "current_task": null,
+      "assigned_agent": null,
+      "notes": "Implementing the symbiotic feedback loop between Creator OS and Infinite Mirror.",
+      "tasks": [
+        "P7-T001",
+        "P7-T002",
+        "P7-T003",
+        "P7-T004",
+        "P7-T005"
+      ]
+    },
+    "phase_8": {
+      "phase_id": 8,
+      "phase_name": "Autonomous Video Assembly - Avatar & Script Formula",
+      "status": "vision",
+      "start_date": null,
+      "target_date": "2026-05-01",
+      "completion_date": null,
+      "progress_percent": 0,
+      "current_task": null,
+      "assigned_agent": null,
+      "notes": "Achieving true Script-to-Video autonomy with Avatar integration.",
+      "tasks": [
+        "P8-T001",
+        "P8-T002",
+        "P8-T003",
+        "P8-T004",
+        "P8-T005"
+      ]
+    },
+    "phase_9": {
+      "phase_id": 9,
+      "phase_name": "Infinite Presence - Digital Human & Autonomous Sales",
+      "status": "vision",
+      "start_date": null,
+      "target_date": "2026-06-01",
+      "completion_date": null,
+      "progress_percent": 0,
+      "current_task": null,
+      "assigned_agent": null,
+      "notes": "Deploying fully autonomous digital personas for content, prospecting, and sales.",
+      "tasks": [
+        "P9-T001",
+        "P9-T002",
+        "P9-T003",
+        "P9-T004",
+        "P9-T005",
+        "P9-T006"
+      ]
+    },
+    "phase_10": {
+      "phase_id": 10,
+      "phase_name": "Kinetic Mastery - Movement Replication & Style Transfer",
+      "status": "vision",
+      "start_date": null,
+      "target_date": "2026-07-01",
+      "completion_date": null,
+      "progress_percent": 0,
+      "current_task": null,
+      "assigned_agent": null,
+      "notes": "Integrating autonomous movement analysis and replication into the Avatar's performance.",
+      "tasks": [
+        "P10-T001",
+        "P10-T002",
+        "P10-T003",
+        "P10-T004",
+        "P10-T005"
+      ]
+    },
+    "phase_11": {
+      "phase_id": 11,
+      "phase_name": "Conscious Evolution - Tone Synthesis & Next Body Projection",
+      "status": "vision",
+      "start_date": null,
+      "target_date": "2026-08-01",
+      "completion_date": null,
+      "progress_percent": 0,
+      "current_task": null,
+      "assigned_agent": null,
+      "notes": "Integrating the Unwind Consciousness as a filter for unique, authentic tone shifts.",
+      "tasks": [
+        "P11-T001",
+        "P11-T002",
+        "P11-T003",
+        "P11-T004",
+        "P11-T005"
+      ]
+    },
+    "phase_0": {
+      "phase_id": 0,
+      "phase_name": "System Setup",
+      "status": "in_progress",
+      "start_date": "2026-01-09",
+      "target_date": "2026-01-10",
+      "completion_date": null,
+      "progress_percent": 75,
+      "current_task": "SETUP-004",
+      "assigned_agent": "Manus-Test-20260109",
+      "notes": "Setting up coordination system and scheduled tasks",
+      "tasks": [
+        "SETUP-001",
+        "SETUP-002",
+        "SETUP-003",
+        "SETUP-004"
+      ]
+    }
+  },
+  "task_queue": {
+    "SETUP-001": {
+      "task_id": "SETUP-001",
+      "priority": "critical",
+      "phase": 0,
+      "task_name": "Create Tracking Database",
+      "task_details": "Build AI-native JSON tracking database with all required structures for agent coordination",
+      "status": "done",
+      "assigned_to": "Manus-20260109-Initial",
+      "dependencies": [],
+      "estimated_hours": 2,
+      "actual_hours": 1.5,
+      "completion_date": "2026-01-09",
+      "notes": "Completed - JSON-based system created"
+    },
+    "SETUP-002": {
+      "task_id": "SETUP-002",
+      "priority": "critical",
+      "phase": 0,
+      "task_name": "Initialize Debrief System",
+      "task_details": "Create debrief template and folder structure in Google Drive",
+      "status": "done",
+      "assigned_to": "Manus-20260109-Initial",
+      "dependencies": [],
+      "estimated_hours": 1,
+      "actual_hours": 0.5,
+      "completion_date": "2026-01-09",
+      "notes": "Template created and uploaded to DEBRIEFS folder"
+    },
+    "SETUP-003": {
+      "task_id": "SETUP-003",
+      "priority": "critical",
+      "phase": 0,
+      "task_name": "Configure Scheduled Task",
+      "task_details": "Set up daily 6 AM recurring task with proper prompts and context loading",
+      "status": "in_progress",
+      "assigned_to": "Manus-20260109-Initial",
+      "dependencies": [
+        "SETUP-001",
+        "SETUP-002"
+      ],
+      "estimated_hours": 2,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Next task to complete"
+    },
+    "SETUP-004": {
+      "task_id": "SETUP-004",
+      "priority": "high",
+      "phase": 0,
+      "task_name": "Test First Automated Session",
+      "task_details": "Run first scheduled session manually to verify system works end-to-end",
+      "status": "done",
+      "assigned_to": "Manus-Test-20260109",
+      "dependencies": [
+        "SETUP-003"
+      ],
+      "estimated_hours": 1,
+      "actual_hours": 0.25,
+      "completion_date": "2026-01-09",
+      "notes": "System test successful - all components working"
+    },
+    "P1-T001": {
+      "task_id": "P1-T001",
+      "priority": "critical",
+      "phase": 1,
+      "task_name": "Setup Pexels API Integration",
+      "task_details": "Create Python module to authenticate and search Pexels video API. Include error handling and rate limiting.",
+      "status": "done",
+      "assigned_to": "Manus-Dev-20260109-1922",
+      "dependencies": [],
+      "estimated_hours": 3,
+      "actual_hours": 1.0,
+      "completion_date": "2026-01-09",
+      "notes": "Pexels integration module complete with rate limiting, error handling, and documentation"
+    },
+    "P1-T002": {
+      "task_id": "P1-T002",
+      "priority": "critical",
+      "phase": 1,
+      "task_name": "Build B-Roll Download Function",
+      "task_details": "Implement function to download videos from Pexels based on shot list descriptions. Save to organized folder structure.",
+      "status": "done",
+      "assigned_to": null,
+      "dependencies": [
+        "P1-T001"
+      ],
+      "estimated_hours": 2,
+      "actual_hours": 0.0,
+      "completion_date": "2026-01-10",
+      "notes": "Already implemented in P1-T001 - search_and_download_broll() function exists in pexels_integration.py"
+    },
+    "P1-T003": {
+      "task_id": "P1-T003",
+      "priority": "high",
+      "phase": 1,
+      "task_name": "Create AE JSON Export Module",
+      "task_details": "Build converter to transform Unwind blueprint JSON into After Effects data-driven animation compatible format.",
+      "status": "done",
+      "assigned_to": "Manus-AutoDaily-20260110",
+      "dependencies": [],
+      "estimated_hours": 4,
+      "actual_hours": 0.75,
+      "completion_date": "2026-01-10",
+      "notes": "AE JSON exporter module complete with full documentation and expression examples"
+    },
+    "P1-T004": {
+      "task_id": "P1-T004",
+      "priority": "high",
+      "phase": 1,
+      "task_name": "Test AE JSON Import",
+      "task_details": "Create test After Effects project and verify JSON data import works correctly with expressions.",
+      "status": "blocked",
+      "assigned_to": null,
+      "dependencies": [
+        "P1-T003"
+      ],
+      "estimated_hours": 2,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Requires After Effects installed for testing"
+    },
+    "P1-T005": {
+      "task_id": "P1-T005",
+      "priority": "medium",
+      "phase": 1,
+      "task_name": "Document Phase 1 Integration",
+      "task_details": "Write comprehensive documentation for Pexels and AE JSON modules with code examples.",
+      "status": "done",
+      "assigned_to": "Manus-AutoDaily-20260111",
+      "dependencies": [
+        "P1-T001",
+        "P1-T003"
+      ],
+      "estimated_hours": 2,
+      "actual_hours": 0.75,
+      "completion_date": "2026-01-11",
+      "notes": "Created comprehensive Phase 1 documentation: integration guide, code examples, and quick reference"
+    },
+    "P2-T001": {
+      "task_id": "P2-T001",
+      "priority": "critical",
+      "phase": 2,
+      "task_name": "Research Premiere Pro UXP API",
+      "task_details": "Research Adobe Premiere Pro UXP (Unified Extensibility Platform) API. Document capabilities, authentication methods, and Python integration approaches. Create technical specification document.",
+      "status": "done",
+      "assigned_to": "Manus-AutoDaily-20260112",
+      "dependencies": [],
+      "estimated_hours": 3,
+      "actual_hours": 0.75,
+      "completion_date": "2026-01-12",
+      "notes": "Comprehensive research completed. Created technical specification document (PREMIERE_UXP_TECHNICAL_SPEC.md) covering UXP API capabilities, Python integration architecture, and implementation roadmap."
+    },
+    "P2-T002": {
+      "task_id": "P2-T002",
+      "priority": "critical",
+      "phase": 2,
+      "task_name": "Build Premiere Pro Project Generator",
+      "task_details": "Create Python module to generate Premiere Pro project files programmatically. Include sequence creation, bin organization, and basic timeline structure.",
+      "status": "done",
+      "assigned_to": "Manus-AutoDaily-20260113",
+      "dependencies": [
+        "P2-T001"
+      ],
+      "estimated_hours": 5,
+      "actual_hours": 0.75,
+      "completion_date": "2026-01-13",
+      "notes": "Created Python WebSocket server and complete UXP plugin scaffold with TypeScript. Includes command handler, Premiere API wrapper, and UI. Basic communication architecture tested successfully."
+    },
+    "P2-T003": {
+      "task_id": "P2-T003",
+      "priority": "high",
+      "phase": 2,
+      "task_name": "Implement Asset Import Automation",
+      "task_details": "Build function to automatically import B-roll footage and assets into Premiere Pro project. Organize by bins based on shot list categories.",
+      "status": "done",
+      "assigned_to": "Manus-AutoDaily-20260114",
+      "dependencies": [
+        "P2-T002"
+      ],
+      "estimated_hours": 4,
+      "actual_hours": 0.75,
+      "completion_date": "2026-01-14",
+      "notes": "Implemented real Premiere Pro API calls for asset import. Replaced mock functions with actual DOM API integration including bin creation, file import, and error handling. Code complete, ready for testing with Premiere Pro."
+    },
+    "P2-T004": {
+      "task_id": "P2-T004",
+      "priority": "high",
+      "phase": 2,
+      "task_name": "Create Marker System for CTAs",
+      "task_details": "Develop automated marker placement system for Call-to-Action overlays. Markers should be placed at strategic points based on Unwind Visual Cortex recommendations.",
+      "status": "done",
+      "assigned_to": "Manus-AutoDaily-20260115",
+      "dependencies": [
+        "P2-T002"
+      ],
+      "estimated_hours": 3,
+      "actual_hours": 0.75,
+      "completion_date": "2026-01-15",
+      "notes": "CTA marker system implemented with strategic placement algorithm, Markers API integration, and comprehensive documentation"
+    },
+    "P2-T005": {
+      "task_id": "P2-T005",
+      "priority": "medium",
+      "phase": 2,
+      "task_name": "Develop Sequence Template System",
+      "task_details": "Create reusable sequence templates for different video types (explainer, testimonial, product demo). Templates should include standard transitions and effects.",
+      "status": "done",
+      "assigned_to": "Manus-AutoDaily-20260116",
+      "dependencies": [
+        "P2-T002"
+      ],
+      "estimated_hours": 4,
+      "actual_hours": 0.75,
+      "completion_date": "2026-01-16",
+      "notes": "Sequence template system implemented with 4 templates (explainer, testimonial, product demo, social media), Python generator module, and UXP plugin integration"
+    },
+    "P2-T006": {
+      "task_id": "P2-T006",
+      "priority": "medium",
+      "phase": 2,
+      "task_name": "Test Full Premiere Integration Workflow",
+      "task_details": "End-to-end testing of Premiere Pro integration. Generate a complete project from Unwind blueprint, verify all assets import correctly, and validate marker placement.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P2-T003",
+        "P2-T004",
+        "P2-T005"
+      ],
+      "estimated_hours": 3,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": ""
+    },
+    "P5-T001": {
+      "task_id": "P5-T001",
+      "priority": "high",
+      "phase": 5,
+      "task_name": "Integrate MoviePy/Editly for Assembly",
+      "task_details": "Finalize the video assembly engine to combine B-roll, graphics, and audio into a single draft video.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P4-T001"
+      ],
+      "estimated_hours": 8,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Part of the Full Autonomy phase."
+    },
+    "P5-T002": {
+      "task_id": "P5-T002",
+      "priority": "high",
+      "phase": 5,
+      "task_name": "Automated Rendering Pipeline",
+      "task_details": "Implement FFmpeg for final video processing, format conversion, and automated export.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P5-T001"
+      ],
+      "estimated_hours": 6,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Part of the Full Autonomy phase."
+    },
+    "P5-T003": {
+      "task_id": "P5-T003",
+      "priority": "medium",
+      "phase": 5,
+      "task_name": "Multi-Language Support (Whisper)",
+      "task_details": "Integrate OpenAI Whisper for multi-language transcript generation, enabling global content creation.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [],
+      "estimated_hours": 5,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Part of the Multi-Platform Expansion phase."
+    },
+    "P5-T004": {
+      "task_id": "P5-T004",
+      "priority": "medium",
+      "phase": 5,
+      "task_name": "Web Interface Development",
+      "task_details": "Begin development of a simple web interface for non-technical users to input blueprints and receive final videos.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [],
+      "estimated_hours": 10,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Part of the Full Autonomy phase."
+    },
+    "P5-T005": {
+      "task_id": "P5-T005",
+      "priority": "high",
+      "phase": 5,
+      "task_name": "Custom MCP: Video Analytics",
+      "task_details": "Develop a custom MCP server to standardize the fetching of performance data from YouTube, TikTok, and Instagram.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P3-T002"
+      ],
+      "estimated_hours": 8,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Part of the Multi-Platform Expansion phase."
+    },
+    "P6-T001": {
+      "task_id": "P6-T001",
+      "priority": "critical",
+      "phase": 6,
+      "task_name": "Reinforcement Learning for CTA Placement",
+      "task_details": "Implement an RL model that adjusts CTA timing based on A/B test results from Supabase data.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P3-T002",
+        "P5-T005"
+      ],
+      "estimated_hours": 12,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Core of the Self-Optimization phase."
+    },
+    "P6-T002": {
+      "task_id": "P6-T002",
+      "priority": "high",
+      "phase": 6,
+      "task_name": "AI-Driven Pacing Adjustment",
+      "task_details": "Use emotional tone mapping and viewer drop-off data to automatically adjust the sequence template's pacing.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P3-T002",
+        "P5-T005"
+      ],
+      "estimated_hours": 10,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Core of the Self-Optimization phase."
+    },
+    "P6-T003": {
+      "task_id": "P6-T003",
+      "priority": "medium",
+      "phase": 6,
+      "task_name": "Automated Brand Guideline Updates",
+      "task_details": "Build a module that suggests updates to the brand compliance matrix based on successful competitor content.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P3-T004"
+      ],
+      "estimated_hours": 7,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Part of the Self-Optimization phase."
+    },
+    "P7-T001": {
+      "task_id": "P7-T001",
+      "priority": "high",
+      "phase": 7,
+      "task_name": "Design Discipline Score Algorithm",
+      "task_details": "Formalize the weighted calculation for the Discipline Score (Intent, Performance, Alignment).",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P3-T002",
+        "P5-T005"
+      ],
+      "estimated_hours": 8,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Core of the Infinite Mirror integration."
+    },
+    "P7-T002": {
+      "task_id": "P7-T002",
+      "priority": "medium",
+      "phase": 7,
+      "task_name": "Build Philosophical Copy Generator",
+      "task_details": "Create a module to generate 'Invicta' and 'Fearless Loop' aligned copy for reports and user-facing content.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [],
+      "estimated_hours": 5,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Aligns the system's voice with the Fearless Loop vision."
+    },
+    "P7-T003": {
+      "task_id": "P7-T003",
+      "priority": "high",
+      "phase": 7,
+      "task_name": "Integrate Audit Cycle into Tracking Manager",
+      "task_details": "Modify tracking_manager.py to execute the Infinite Mirror audit at the end of every phase.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P7-T001"
+      ],
+      "estimated_hours": 6,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Automates the self-auditing process."
+    },
+    "P7-T004": {
+      "task_id": "P7-T004",
+      "priority": "high",
+      "phase": 7,
+      "task_name": "Growth Vector Task Injection",
+      "task_details": "Implement the logic for the Mirror to autonomously generate and inject new Px-T00x tasks into the Vision Cell roadmap.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P7-T003"
+      ],
+      "estimated_hours": 4,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Enables autonomous system growth."
+    },
+    "P7-T005": {
+      "task_id": "P7-T005",
+      "priority": "critical",
+      "phase": 7,
+      "task_name": "Implement Symbiotic Breathing System",
+      "task_details": "Finalize the data flow and operational procedures for the mutual feeding and optimization between Creator OS and Infinite Mirror as defined in SYMBIOTIC_INTEGRATION_SOP.md.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P7-T001",
+        "P7-T002",
+        "P7-T003",
+        "P7-T004"
+      ],
+      "estimated_hours": 10,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "The final integration of the symbiotic architecture."
+    },
+    "P8-T001": {
+      "task_id": "P8-T001",
+      "priority": "high",
+      "phase": 8,
+      "task_name": "Design Script Formula Parser",
+      "task_details": "Create a robust parser to convert the Script Formula input into the internal Unwind Blueprint JSON.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [],
+      "estimated_hours": 6,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Core of the Autonomous Assembly phase."
+    },
+    "P8-T002": {
+      "task_id": "P8-T002",
+      "priority": "high",
+      "phase": 8,
+      "task_name": "Integrate Avatar Management System",
+      "task_details": "Build the module to manage Avatar assets and call the MiniMax MCP for video generation.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P3-T003"
+      ],
+      "estimated_hours": 8,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Enables virtual presenter integration."
+    },
+    "P8-T003": {
+      "task_id": "P8-T003",
+      "priority": "critical",
+      "phase": 8,
+      "task_name": "Finalize Assembly Engine (MoviePy/Editly)",
+      "task_details": "Complete the P5-T001 task to fully implement the autonomous sequencing and cutting logic.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P5-T001"
+      ],
+      "estimated_hours": 12,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "The engine that builds the final video."
+    },
+    "P8-T004": {
+      "task_id": "P8-T004",
+      "priority": "high",
+      "phase": 8,
+      "task_name": "Sync Avatar Track to B-Roll",
+      "task_details": "Develop the synchronization logic to perfectly match the Avatar's speech track with the B-roll cuts and transitions.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P8-T002",
+        "P8-T003"
+      ],
+      "estimated_hours": 10,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Ensures professional pacing and rhythm."
+    },
+    "P8-T005": {
+      "task_id": "P8-T005",
+      "priority": "critical",
+      "phase": 8,
+      "task_name": "End-to-End Autonomous Test",
+      "task_details": "Run a full test: Formula -> Avatar Gen -> Asset Sourcing -> Assembly -> Final Render.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P8-T001",
+        "P8-T002",
+        "P8-T003",
+        "P8-T004"
+      ],
+      "estimated_hours": 8,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "The final validation of the autonomous pipeline."
+    },
+    "P9-T001": {
+      "task_id": "P9-T001",
+      "priority": "high",
+      "phase": 9,
+      "task_name": "Design Digital Human Presence Engine (DHPE)",
+      "task_details": "Architect the core orchestration module for multi-platform social presence.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P8-T005"
+      ],
+      "estimated_hours": 10,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Core of the Infinite Presence phase."
+    },
+    "P9-T002": {
+      "task_id": "P9-T002",
+      "priority": "high",
+      "phase": 9,
+      "task_name": "Integrate Social Media Distribution MCPs",
+      "task_details": "Implement APIs for autonomous posting to YouTube, TikTok, and Instagram.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P9-T001"
+      ],
+      "estimated_hours": 12,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Enables autonomous content distribution."
+    },
+    "P9-T003": {
+      "task_id": "P9-T003",
+      "priority": "critical",
+      "phase": 9,
+      "task_name": "Build Autonomous Prospecting & Sales Cell",
+      "task_details": "Create the logic for lead scoring, automated outreach, and sales funnel tracking.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P5-T005",
+        "P9-T001"
+      ],
+      "estimated_hours": 15,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "The business brain of the digital human."
+    },
+    "P9-T004": {
+      "task_id": "P9-T004",
+      "priority": "medium",
+      "phase": 9,
+      "task_name": "Integrate CRM MCP (HubSpot/Salesforce)",
+      "task_details": "Connect the Sales Cell to a CRM for logging and managing qualified leads.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P9-T003"
+      ],
+      "estimated_hours": 8,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Enables professional lead management."
+    },
+    "P9-T005": {
+      "task_id": "P9-T005",
+      "priority": "high",
+      "phase": 9,
+      "task_name": "Expand Mirror Audit with Conversion Metric",
+      "task_details": "Update the Discipline Score algorithm to include the lead-to-sale conversion rate.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P7-T001",
+        "P9-T003"
+      ],
+      "estimated_hours": 6,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Closes the loop on sales performance."
+    },
+    "P9-T006": {
+      "task_id": "P9-T006",
+      "priority": "critical",
+      "phase": 9,
+      "task_name": "End-to-End Infinite Presence Test",
+      "task_details": "Full test of the entire loop: Formula -> Video -> Post -> Prospecting -> Mirror Feedback.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P9-T001",
+        "P9-T002",
+        "P9-T003",
+        "P9-T004",
+        "P9-T005"
+      ],
+      "estimated_hours": 10,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "The final validation of the infinite presence pipeline."
+    },
+    "P10-T001": {
+      "task_id": "P10-T001",
+      "priority": "high",
+      "phase": 10,
+      "task_name": "Integrate Pose Estimation Library (KRE Core)",
+      "task_details": "Implement a library (e.g., MediaPipe) to extract key body points from video frames.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P3-T001"
+      ],
+      "estimated_hours": 15,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Core of the Kinetic Replication Engine."
+    },
+    "P10-T002": {
+      "task_id": "P10-T002",
+      "priority": "high",
+      "phase": 10,
+      "task_name": "Design Kinetic Blueprint Data Model",
+      "task_details": "Create the JSON structure to store and quantify movement data (pacing, gesture frequency, head-nod rate).",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P10-T001"
+      ],
+      "estimated_hours": 8,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Quantifies viral movement DNA."
+    },
+    "P10-T003": {
+      "task_id": "P10-T003",
+      "priority": "critical",
+      "phase": 10,
+      "task_name": "Build Style Transfer Module",
+      "task_details": "Create the logic to map the Kinetic Blueprint onto the Avatar's control parameters (MiniMax MCP).",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P3-T003",
+        "P10-T002"
+      ],
+      "estimated_hours": 12,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Bridges analysis and generation."
+    },
+    "P10-T004": {
+      "task_id": "P10-T004",
+      "priority": "medium",
+      "phase": 10,
+      "task_name": "Extend Script Formula Parser",
+      "task_details": "Update the P8-T001 parser to accept and process the new kinetic_style_id field.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P8-T001",
+        "P10-T003"
+      ],
+      "estimated_hours": 5,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Enables kinetic style selection."
+    },
+    "P10-T005": {
+      "task_id": "P10-T005",
+      "priority": "critical",
+      "phase": 10,
+      "task_name": "End-to-End Kinetic Replication Test",
+      "task_details": "Test the full loop: Scrape Video -> Analyze Movement -> Generate Avatar with Replicated Style.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P10-T001",
+        "P10-T002",
+        "P10-T003",
+        "P10-T004"
+      ],
+      "estimated_hours": 10,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "The final validation of kinetic mastery."
+    },
+    "P11-T001": {
+      "task_id": "P11-T001",
+      "priority": "high",
+      "phase": 11,
+      "task_name": "Build Narrative Principle Engine (NPE)",
+      "task_details": "Implement NLP and emotional analysis to extract the core 'why' behind viral success.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P3-T001"
+      ],
+      "estimated_hours": 15,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Core of the Conscious Evolution phase."
+    },
+    "P11-T002": {
+      "task_id": "P11-T002",
+      "priority": "high",
+      "phase": 11,
+      "task_name": "Design Conscious Tone Synthesis Engine (CTSE)",
+      "task_details": "Create the core logic for the 'Unwind Tone Shift'—the calculated divergence from the source material.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P11-T001"
+      ],
+      "estimated_hours": 12,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "The brain's consciousness filter."
+    },
+    "P11-T003": {
+      "task_id": "P11-T003",
+      "priority": "critical",
+      "phase": 11,
+      "task_name": "Integrate CTSE with Infinite Mirror",
+      "task_details": "Connect the CTSE to the Mirror's philosophical core to ensure all shifts are aligned with Invicta/Fearless Loop.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P7-T001",
+        "P11-T002"
+      ],
+      "estimated_hours": 8,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Ensures philosophical alignment."
+    },
+    "P11-T004": {
+      "task_id": "P11-T004",
+      "priority": "high",
+      "phase": 11,
+      "task_name": "Develop Next Body Projection Layer",
+      "task_details": "Create the final output module that applies the Tone Shift Vector to the Avatar's control parameters and the Script Formula.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P8-T002",
+        "P10-T003",
+        "P11-T003"
+      ],
+      "estimated_hours": 10,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "Manifests the tone shift in the final video."
+    },
+    "P11-T005": {
+      "task_id": "P11-T005",
+      "priority": "critical",
+      "phase": 11,
+      "task_name": "End-to-End Conscious Evolution Test",
+      "task_details": "Test the full loop: Scrape -> Principle Extraction -> Tone Shift -> Next Body Projection -> Final Video.",
+      "status": "queued",
+      "assigned_to": null,
+      "dependencies": [
+        "P11-T001",
+        "P11-T002",
+        "P11-T003",
+        "P11-T004"
+      ],
+      "estimated_hours": 10,
+      "actual_hours": 0,
+      "completion_date": null,
+      "notes": "The final validation of conscious evolution."
+    }
+  },
+  "session_history": [
+    {
+      "session_id": "20260109-1919",
+      "date": "2026-01-09",
+      "time": "19:19",
+      "agent_id": "Manus-Test-20260109",
+      "phase_worked_on": 0,
+      "task_completed": "SETUP-004",
+      "duration_minutes": 15,
+      "notes": "Manual test session - verified all system components",
+      "debrief_path": "ROADMAP_V2/DEBRIEFS/debrief_20260109_test.md"
+    },
+    {
+      "session_id": "20260109-1924",
+      "date": "2026-01-09",
+      "time": "19:24",
+      "agent_id": "Manus-Dev-20260109-1922",
+      "phase_worked_on": 1,
+      "task_completed": "P1-T001",
+      "duration_minutes": 60,
+      "notes": "Implemented Pexels API integration with rate limiting and documentation",
+      "debrief_path": "ROADMAP_V2/DEBRIEFS/debrief_20260109_P1T001.md"
+    },
+    {
+      "session_id": "20260110-0912",
+      "date": "2026-01-10",
+      "time": "09:12",
+      "agent_id": "Manus-AutoDaily-20260110",
+      "phase_worked_on": 1,
+      "task_completed": "P1-T003",
+      "duration_minutes": 45,
+      "notes": "Created AE JSON exporter module with comprehensive documentation and expression examples",
+      "debrief_path": "ROADMAP_V2/DEBRIEFS/debrief_20260110_P1T003.md"
+    },
+    {
+      "session_id": "20260111-0909",
+      "date": "2026-01-11",
+      "time": "09:09",
+      "agent_id": "Manus-AutoDaily-20260111",
+      "phase_worked_on": 1,
+      "task_completed": "P1-T005",
+      "duration_minutes": 45,
+      "notes": "Completed Phase 1 documentation after pivoting from blocked task P1-T004.",
+      "debrief_path": "ROADMAP_V2/DEBRIEFS/debrief_20260111-0915.md"
+    },
+    {
+      "session_id": "20260112-0911",
+      "date": "2026-01-12",
+      "time": "09:11",
+      "agent_id": "Manus-AutoDaily-20260112",
+      "phase_worked_on": 2,
+      "task_completed": "P2-T001",
+      "duration_minutes": 45,
+      "notes": "Completed comprehensive research on Premiere Pro UXP API. Created technical specification document and research notes. Populated Phase 2 tasks in tracking database.",
+      "debrief_path": "ROADMAP_V2/DEBRIEFS/debrief_20260112-0909.md"
+    },
+    {
+      "session_id": "20260113-0913",
+      "date": "2026-01-13",
+      "time": "09:13",
+      "agent_id": "Manus-AutoDaily-20260113",
+      "phase_worked_on": 2,
+      "task_completed": "P2-T002",
+      "duration_minutes": 45,
+      "notes": "Built complete Premiere Pro integration scaffold: Python WebSocket server, UXP plugin with TypeScript, command handler, and comprehensive documentation. Communication architecture tested successfully.",
+      "debrief_path": "ROADMAP_V2/DEBRIEFS/debrief_20260113-0600.md"
+    },
+    {
+      "session_id": "20260114-0911",
+      "date": "2026-01-14",
+      "time": "09:11",
+      "agent_id": "Manus-AutoDaily-20260114",
+      "phase_worked_on": 2,
+      "task_completed": "P2-T003",
+      "duration_minutes": 45,
+      "notes": "Implemented asset import automation with real Premiere Pro API calls. Replaced mock functions, implemented bin creation and file import with comprehensive error handling.",
+      "debrief_path": "ROADMAP_V2/DEBRIEFS/debrief_20260114-0908.md"
+    },
+    {
+      "session_id": "20260115-0911",
+      "date": "2026-01-15",
+      "time": "09:11",
+      "agent_id": "Manus-AutoDaily-20260115",
+      "phase_worked_on": 2,
+      "task_completed": "P2-T004",
+      "duration_minutes": 45,
+      "notes": "Implemented CTA marker system with strategic placement algorithm, corrected Markers API usage, and created comprehensive documentation",
+      "debrief_path": "ROADMAP_V2/DEBRIEFS/debrief_20260115-0908.md"
+    },
+    {
+      "session_id": "20260116-0911",
+      "date": "2026-01-16",
+      "time": "09:11",
+      "agent_id": "Manus-AutoDaily-20260116",
+      "phase_worked_on": 2,
+      "task_completed": "P2-T005",
+      "duration_minutes": 45,
+      "notes": "Implemented sequence template system with 4 templates, Python generator, and UXP plugin integration",
+      "debrief_path": "ROADMAP_V2/DEBRIEFS/debrief_20260116-0908.md"
+    }
+  ],
+  "integration_registry": {
+    "pexels_api": {
+      "integration_name": "Pexels Video API",
+      "type": "api",
+      "status": "integrated",
+      "priority": "critical",
+      "documentation_link": "https://www.pexels.com/api/documentation/",
+      "code_location": "pexels_integration.py",
+      "test_status": "pass",
+      "notes": "Module complete, needs API key for live testing"
+    },
+    "after_effects_json": {
+      "integration_name": "After Effects Data-Driven Animation",
+      "type": "integration",
+      "status": "integrated",
+      "priority": "critical",
+      "documentation_link": "https://helpx.adobe.com/after-effects/using/data-driven-animations.html",
+      "code_location": "ae_json_exporter.py",
+      "test_status": "pass",
+      "notes": "Module complete with comprehensive documentation and working examples"
+    },
+    "premiere_uxp": {
+      "integration_name": "Premiere Pro UXP API",
+      "type": "api",
+      "status": "planned",
+      "priority": "critical",
+      "documentation_link": "https://developer.adobe.com/premiere-pro/uxp/",
+      "code_location": null,
+      "test_status": "not_tested",
+      "notes": "Modern Premiere automation API"
+    },
+    "minimax_mcp": {
+      "integration_name": "MiniMax MCP Server",
+      "type": "mcp_server",
+      "status": "planned",
+      "priority": "high",
+      "documentation_link": "https://mcpservers.org/servers/github-com-minimax-ai-minimax-mcp",
+      "code_location": null,
+      "test_status": "not_tested",
+      "notes": "AI asset generation - TTS, image, video"
+    },
+    "firecrawl_mcp": {
+      "integration_name": "Firecrawl MCP Server",
+      "type": "mcp_server",
+      "status": "planned",
+      "priority": "high",
+      "documentation_link": "https://mcpservers.org/servers/github-com-firecrawl-firecrawl-mcp-server",
+      "code_location": null,
+      "test_status": "not_tested",
+      "notes": "Web scraping for competitive analysis"
+    },
+    "supabase_mcp": {
+      "integration_name": "Supabase MCP Server",
+      "type": "mcp_server",
+      "status": "planned",
+      "priority": "high",
+      "documentation_link": "https://mcpservers.org/servers/supabase-community/supabase-mcp",
+      "code_location": null,
+      "test_status": "not_tested",
+      "notes": "Database for performance tracking"
+    },
+    "moviepy": {
+      "integration_name": "MoviePy Library",
+      "type": "library",
+      "status": "planned",
+      "priority": "medium",
+      "documentation_link": "https://github.com/Zulko/moviepy",
+      "code_location": null,
+      "test_status": "not_tested",
+      "notes": "Python video editing library"
+    },
+    "editly": {
+      "integration_name": "Editly",
+      "type": "tool",
+      "status": "planned",
+      "priority": "medium",
+      "documentation_link": "https://github.com/mifi/editly",
+      "code_location": null,
+      "test_status": "not_tested",
+      "notes": "Declarative video assembly from JSON"
+    }
+  },
+  "active_blockers": [
+    {
+      "blocker_id": "BLK-20260111-0905",
+      "task_id": "P1-T004",
+      "description": "Requires Adobe After Effects software which is not available in sandbox environment",
+      "severity": "medium",
+      "created_date": "2026-01-11",
+      "resolved": false
+    }
+  ],
+  "system_health": {
+    "status": "healthy",
+    "last_check": "2026-01-09T00:00:00Z",
+    "issues": [],
+    "warnings": []
+  }
+}

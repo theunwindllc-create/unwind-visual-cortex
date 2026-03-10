@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "platform": "all",
+    "conversion_goal": "leads",
+    "analysis_timestamp": "generated"
+  },
+  "brand_compliance_matrix": {
+    "logo_rules": {
+      "placement": "Maintain a clear space around the logo equal to the height of the 'O' in Ocean Guardians to ensure visibility and impact. Avoid placing the logo too close to edges or other visual elements.",
+      "sizing": "Minimum width of the logo should be 1.5 inches (or 150 pixels for digital) to maintain legibility. Avoid scaling beyond 200% of original vector size to prevent distortion.",
+      "usage_notes": "Use the primary color (#006994) version of the logo on light backgrounds. On dark or complex backgrounds, use a white or monochrome variant ensuring contrast. Do not alter logo colors or proportions. Avoid adding effects like drop shadows or gradients."
+    },
+    "color_palette": {
+      "primary_color": "#006994",
+      "secondary_color": "#4ECDC4",
+      "accent_color": "#FF6B6B",
+      "usage_ratio": "Apply the 60-30-10 rule: 60% Primary (#006994), 30% Secondary (#4ECDC4), 10% Accent (#FF6B6B) to maintain visual hierarchy and brand consistency.",
+      "emotional_mapping": "Primary color (#006994) evokes trust, stability, and oceanic connection; Secondary (#4ECDC4) conveys freshness, renewal, and environmental vitality; Accent (#FF6B6B) injects urgency and passion, motivating action while balancing hope."
+    },
+    "typography": {
+      "heading_font": "Merriweather Bold",
+      "body_font": "Open Sans Regular",
+      "min_size": "Headings minimum 18pt (or 24px digital), Body minimum 12pt (or 16px digital) to ensure readability across platforms.",
+      "contrast_requirements": "Text must maintain a minimum contrast ratio of 4.5:1 against background colors to meet accessibility standards, ensuring legibility for all users."
+    },
+    "tone_of_voice": {
+      "personality": "Passionate, Urgent, Hopeful, Scientifically Grounded",
+      "language_style": "Use empowering and action-oriented language that balances urgency with hope. Avoid guilt-inducing or fear-based messaging. Communicate impact clearly and positively.",
+      "forbidden_phrases": [
+        "It's too late",
+        "We are doomed",
+        "Blame",
+        "Hopeless",
+        "Victim",
+        "Irreversible damage"
+      ]
+    },
+    "brand_summary": "Ocean Guardians is a globally focused environmental non-profit brand that embodies passion and urgency balanced with hope and scientific credibility. Visual and verbal communications must inspire empowered action through clear evidence of impact, using a trustworthy blue palette accented by urgent coral. Typography and logo usage must prioritize accessibility and clarity. Messaging should avoid guilt or fear, instead fostering a hopeful, action-driven community committed to ocean preservation.",
+    "target_audience": "Environmentally conscious individuals aged 25-50, global audience"
+  },
+  "emotional_arc_map": {
+    "overall_emotional_tone": "Urgency/Scarcity",
+    "emotional_segments": [
+      {
+        "timestamp_range": "0:00-0:10",
+        "dominant_emotion": "Urgency/Scarcity",
+        "intensity": "High",
+        "key_phrases": [
+          "Every minute, a garbage truck's worth of plastic enters our oceans.",
+          "By 2050, there will be more plastic than fish."
+        ],
+        "pacing_recommendation": "Fast"
+      },
+      {
+        "timestamp_range": "0:11-0:20",
+        "dominant_emotion": "Hope/Joy/Excitement",
+        "intensity": "Medium",
+        "key_phrases": [
+          "But here's the hope:",
+          "Last year, our community removed 2 million pounds of ocean plastic.",
+          "That's 2 million pounds that didn't harm marine life."
+        ],
+        "pacing_recommendation": "Medium"
+      },
+      {
+        "timestamp_range": "0:21-0:35",
+        "dominant_emotion": "Trust/Authority",
+        "intensity": "Medium",
+        "key_phrases": [
+          "Your $10 monthly donation removes 50 pounds of plastic every single month.",
+          "That's 600 pounds a year. One person. Real impact."
+        ],
+        "pacing_recommendation": "Medium"
+      },
+      {
+        "timestamp_range": "0:36-0:45",
+        "dominant_emotion": "Joy/Excitement",
+        "intensity": "High",
+        "key_phrases": [
+          "Join 50,000 Ocean Guardians making waves.",
+          "Start your monthly impact today."
+        ],
+        "pacing_recommendation": "Fast"
+      }
+    ],
+    "emotional_arc_summary": "The video opens with a high-intensity sense of urgency and scarcity, highlighting the alarming rate of ocean plastic pollution to immediately capture attention and concern. It then shifts to a medium-intensity hopeful tone, emphasizing community achievements that inspire optimism. Following this, the tone moves to trust and authority by quantifying the tangible impact of individual donations, building credibility and personal empowerment. Finally, it culminates in a high-energy call to action filled with excitement and collective momentum, motivating viewers to join the cause.",
+    "hook_strategy": "Start with a stark, alarming fact about ocean plastic pollution to instantly engage viewers' concern and urgency within the first 3-5 seconds.",
+    "climax_moment": "0:36-0:45 - The enthusiastic invitation to join 50,000 Ocean Guardians and make a real impact serves as the emotional and motivational climax, driving viewers toward immediate action.",
+    "editing_rhythm": "Begin with a fast pace to convey urgency, slow slightly during hopeful and trust-building segments to allow absorption of positive impact and credibility, then accelerate again towards the energetic call to action for maximum engagement and conversion."
+  },
+  "design_composition_plan": {
+    "platform_recommendations": {
+      "instagram_reels": {
+        "aspect_ratio": "9:16",
+        "optimal_length": "15-30 seconds",
+        "safe_zones": "Keep key text and logo within the central 80% of the frame to avoid cropping by UI elements",
+        "specific_considerations": "Use quick cuts and dynamic visuals early to capture attention; ensure captions and logos are large enough for mobile screens; leverage Instagram\u2019s native text and sticker features for engagement"
+      },
+      "youtube_shorts": {
+        "aspect_ratio": "9:16",
+        "optimal_length": "15-60 seconds",
+        "retention_target": "Aim to retain viewers through the first 20 seconds by balancing urgency and hope",
+        "specific_considerations": "Include clear branding early; use slower pacing during trust-building to enhance message absorption; optimize for clarity on various screen sizes; consider adding subtitles for sound-off viewing"
+      },
+      "tiktok": {
+        "aspect_ratio": "9:16",
+        "optimal_length": "15-30 seconds",
+        "trend_alignment": "Incorporate trending transitions and upbeat pacing especially during the call to action; use engaging text overlays synced with voiceover for accessibility and trend resonance",
+        "specific_considerations": "Start with a strong hook within first 3 seconds; use quick, punchy edits for urgency segments; leverage TikTok\u2019s built-in effects subtly to enhance but not overshadow brand identity"
+      }
+    },
+    "b_roll_shot_list": [
+      {
+        "timestamp": "0:00-0:05",
+        "shot_type": "Specific",
+        "description": "Close-up of ocean surface with visible floating plastic debris, emphasizing pollution urgency",
+        "composition_rule": "Fill the Frame",
+        "duration": "5s",
+        "emotion_alignment": "Urgency/Scarcity"
+      },
+      {
+        "timestamp": "0:05-0:10",
+        "shot_type": "Specific",
+        "description": "Wide shot of a garbage truck dumping plastic waste near a coastline, illustrating scale of pollution",
+        "composition_rule": "Rule of Thirds",
+        "duration": "5s",
+        "emotion_alignment": "Urgency/Scarcity"
+      },
+      {
+        "timestamp": "0:11-0:15",
+        "shot_type": "Broad",
+        "description": "Medium shot of volunteers collecting plastic on a beach, smiling and working together",
+        "composition_rule": "Leading Lines",
+        "duration": "5s",
+        "emotion_alignment": "Hope/Joy/Excitement"
+      },
+      {
+        "timestamp": "0:15-0:20",
+        "shot_type": "Specific",
+        "description": "Close-up of hands holding clean plastic collected, showing tangible impact",
+        "composition_rule": "Central Composition",
+        "duration": "5s",
+        "emotion_alignment": "Hope/Joy/Excitement"
+      },
+      {
+        "timestamp": "0:21-0:25",
+        "shot_type": "Specific",
+        "description": "Graphical animation demonstrating how a $10 donation removes 50 pounds of plastic monthly",
+        "composition_rule": "Fill the Frame",
+        "duration": "5s",
+        "emotion_alignment": "Trust/Authority"
+      },
+      {
+        "timestamp": "0:25-0:30",
+        "shot_type": "Broad",
+        "description": "Interview-style medium close-up of a scientist explaining impact, with ocean backdrop",
+        "composition_rule": "Rule of Thirds",
+        "duration": "5s",
+        "emotion_alignment": "Trust/Authority"
+      },
+      {
+        "timestamp": "0:31-0:35",
+        "shot_type": "Broad",
+        "description": "Slow-motion shot of ocean waves gently washing over a clean beach, symbolizing renewal",
+        "composition_rule": "Symmetry",
+        "duration": "5s",
+        "emotion_alignment": "Trust/Authority"
+      },
+      {
+        "timestamp": "0:36-0:40",
+        "shot_type": "Specific",
+        "description": "Energetic group shot of diverse Ocean Guardians volunteers cheering, holding banners",
+        "composition_rule": "Balance",
+        "duration": "5s",
+        "emotion_alignment": "Joy/Excitement"
+      },
+      {
+        "timestamp": "0:40-0:45",
+        "shot_type": "Specific",
+        "description": "Close-up on a call-to-action button on a mobile screen with finger tapping 'Join Now'",
+        "composition_rule": "Central Composition",
+        "duration": "5s",
+        "emotion_alignment": "Joy/Excitement"
+      }
+    ],
+    "visual_composition_guide": {
+      "color_grading": "Apply a cool, oceanic blue tone emphasizing primary color #006994 with complementary secondary #4ECDC4 highlights; use accent #FF6B6B sparingly on call-to-action elements and important text to inject urgency and passion",
+      "lighting_style": "Use natural, soft lighting for outdoor shots to evoke freshness and hope; for animations and interviews, employ balanced, even lighting to maintain clarity and trustworthiness",
+      "camera_movement": "Combine slow, smooth tracking shots during hopeful/trust segments with quicker, dynamic pans and zooms during urgency and call-to-action moments to match pacing",
+      "framing_strategy": "Utilize Rule of Thirds for interviews and contextual wide shots; use Fill the Frame for impactful close-ups; employ Leading Lines in volunteer shots to guide viewer focus; apply Symmetry in nature shots for calm renewal effect"
+    },
+    "motion_graphics_plan": [
+      {
+        "timestamp": "0:00-0:05",
+        "element_type": "text overlay",
+        "content": "Every minute, a garbage truck's worth of plastic enters our oceans.",
+        "style": "Bold Merriweather font in #FF6B6B with subtle drop shadow for legibility, positioned in lower third within safe zone",
+        "duration": "5s"
+      },
+      {
+        "timestamp": "0:05-0:10",
+        "element_type": "animation",
+        "content": "Animated infographic showing growing plastic volume vs fish population",
+        "style": "Clean vector animation using brand colors #006994 and #4ECDC4 with accent highlights #FF6B6B for emphasis",
+        "duration": "5s"
+      },
+      {
+        "timestamp": "0:11-0:20",
+        "element_type": "text overlay",
+        "content": "But here's the hope: 2 million pounds removed last year.",
+        "style": "Merriweather Bold in #4ECDC4, fade in/out with gentle scale up, positioned top center",
+        "duration": "10s"
+      },
+      {
+        "timestamp": "0:21-0:30",
+        "element_type": "animation",
+        "content": "Donation impact counter incrementing from 0 to 600 pounds annually",
+        "style": "Minimalist numeric counter in Open Sans Regular #006994 on semi-transparent dark overlay for contrast",
+        "duration": "10s"
+      },
+      {
+        "timestamp": "0:36-0:45",
+        "element_type": "transition",
+        "content": "Energetic swipe transition leading into call to action",
+        "style": "Smooth, fast swipe with coral #FF6B6B accent flare to emphasize excitement",
+        "duration": "1s"
+      },
+      {
+        "timestamp": "0:40-0:45",
+        "element_type": "text overlay",
+        "content": "Join 50,000 Ocean Guardians. Start your impact today.",
+        "style": "Merriweather Bold #FF6B6B with subtle glow effect, centered and large for mobile legibility",
+        "duration": "5s"
+      }
+    ]
+  },
+  "conversion_optimization": {
+    "conversion_goal": "leads",
+    "hook_optimization": {
+      "first_3_seconds": "Start with a striking close-up of ocean plastic debris paired with the bold text overlay 'Every minute, a garbage truck's worth of plastic enters our oceans.' to immediately trigger urgency and curiosity.",
+      "pattern_interrupt": "Use a sudden, dynamic zoom-in combined with a subtle sound effect on the floating plastic debris to break viewer expectations and grab attention.",
+      "open_loop_strategy": "Pose a compelling question or hint at a surprising solution, e.g., 'What if your $10 could remove 50 pounds of plastic every month? Stay tuned to find out how.' to maintain curiosity and encourage continued viewing."
+    },
+    "cta_strategy": [
+      {
+        "placement": "Pre-roll",
+        "timestamp": "0:04",
+        "cta_text": "Discover how you can help - Watch now!",
+        "visual_treatment": "Semi-transparent coral #FF6B6B banner with bold Merriweather font and subtle pulse animation to draw attention without distracting from the urgency shot.",
+        "psychological_trigger": "Curiosity"
+      },
+      {
+        "placement": "Mid-roll",
+        "timestamp": "0:22",
+        "cta_text": "Donate $10 to remove 50 lbs of plastic monthly",
+        "visual_treatment": "Clean numeric counter animation with accent #FF6B6B highlight on the donation amount, paired with a subtle glow effect around the CTA button to emphasize urgency and reciprocity.",
+        "psychological_trigger": "Reciprocity"
+      },
+      {
+        "placement": "Post-roll",
+        "timestamp": "0:40-0:45",
+        "cta_text": "Join 50,000 Ocean Guardians. Start your impact today.",
+        "visual_treatment": "Large, centered Merriweather Bold text in #FF6B6B with subtle glow and fast swipe transition background to create excitement and urgency.",
+        "psychological_trigger": "Social Proof and Urgency"
+      }
+    ],
+    "retention_hacks": [
+      {
+        "technique": "Emotional Contrast",
+        "implementation": "Alternate urgency-driven visuals (pollution shots) with hopeful, joyful volunteer scenes and authoritative expert interviews to maintain emotional engagement and prevent viewer fatigue.",
+        "expected_impact": "Sustains viewer interest by balancing negative and positive emotions, increasing watch time and message absorption."
+      },
+      {
+        "technique": "Open Loop Messaging",
+        "implementation": "Introduce a question or promise early (e.g., impact of $10 donation) and deliver the answer mid-video with animations and testimonials.",
+        "expected_impact": "Encourages viewers to stay through the video to resolve curiosity, improving retention beyond 20 seconds."
+      },
+      {
+        "technique": "Dynamic Text Overlays",
+        "implementation": "Use animated, color-contrasted text overlays synced with voiceover to reinforce key messages and aid comprehension especially for sound-off viewers.",
+        "expected_impact": "Improves message clarity and engagement, reducing drop-off especially on mobile platforms."
+      }
+    ],
+    "ab_test_suggestions": [
+      {
+        "element": "hook",
+        "variant_a": "Start with close-up ocean plastic debris and urgent statistic text overlay.",
+        "variant_b": "Start with energetic volunteer group shot and hopeful message.",
+        "hypothesis": "The urgent pollution-focused hook will generate higher initial engagement and retention by triggering urgency and curiosity."
+      },
+      {
+        "element": "CTA",
+        "variant_a": "Mid-roll numeric donation counter with direct $10 CTA.",
+        "variant_b": "Mid-roll testimonial quote from scientist emphasizing impact before CTA.",
+        "hypothesis": "Adding authority via expert testimonial before CTA will increase trust and lead conversion rates."
+      },
+      {
+        "element": "thumbnail",
+        "variant_a": "Close-up of ocean plastic debris with bold red text overlay 'Pollution Crisis'.",
+        "variant_b": "Smiling volunteers holding banners with text 'Join the Movement'.",
+        "hypothesis": "Urgency-themed thumbnail will attract clicks from concern-driven viewers, while hopeful thumbnail may attract those motivated by positive action."
+      }
+    ],
+    "psychological_triggers": {
+      "primary_trigger": "Urgency",
+      "secondary_triggers": [
+        "Curiosity",
+        "Social Proof",
+        "Reciprocity",
+        "Authority"
+      ],
+      "implementation_notes": "Leverage urgency early via impactful visuals and statistics to prompt immediate attention. Sustain curiosity with open loops about donation impact. Build trust and authority with expert interviews and clear data. Use social proof by highlighting the 50,000 Ocean Guardians community to encourage joining. Employ reciprocity by showing how small donations create big impact, motivating leads."
+    }
+  }
+}

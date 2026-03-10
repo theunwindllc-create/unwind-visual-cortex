@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "platform": "all",
+    "conversion_goal": "leads",
+    "analysis_timestamp": "generated"
+  },
+  "brand_compliance_matrix": {
+    "logo_rules": {
+      "placement": "Maintain a clear space around the logo equal to the height of the letter 'T' in TechFlow. Position logo top-left or center aligned on digital and print materials for maximum visibility.",
+      "sizing": "Minimum logo width of 100px for digital use and 1 inch for print. Do not stretch or distort the logo. Maintain aspect ratio at all times.",
+      "usage_notes": "Use the primary color (#0066FF) version of the logo on light backgrounds. Use a white or monochrome version on dark backgrounds. Avoid placing the logo on busy or cluttered backgrounds to preserve legibility."
+    },
+    "color_palette": {
+      "primary_color": "#0066FF",
+      "secondary_color": "#00CCFF",
+      "accent_color": "#FF6B35",
+      "usage_ratio": "Apply the 60-30-10 rule: 60% primary (#0066FF), 30% secondary (#00CCFF), 10% accent (#FF6B35) to maintain brand balance and visual hierarchy.",
+      "emotional_mapping": "Primary blue (#0066FF) conveys trust and professionalism; secondary cyan (#00CCFF) suggests innovation and approachability; accent orange (#FF6B35) adds energy and highlights calls to action."
+    },
+    "typography": {
+      "heading_font": "Montserrat Bold",
+      "body_font": "Inter Regular",
+      "min_size": "Headings minimum 18pt (digital 24px), Body minimum 12pt (digital 16px) to ensure readability across devices.",
+      "contrast_requirements": "Text must have a minimum contrast ratio of 4.5:1 against background colors to ensure accessibility and clarity."
+    },
+    "tone_of_voice": {
+      "personality": "Professional yet approachable, innovative, trustworthy",
+      "language_style": "Clear, confident, and empowering language that treats the audience as equals. Use simple, direct sentences emphasizing efficiency and simplicity.",
+      "forbidden_phrases": [
+        "synergy",
+        "leverage",
+        "disruptive",
+        "pivot",
+        "bandwidth",
+        "circle back",
+        "touch base",
+        "game changer",
+        "move the needle"
+      ]
+    },
+    "brand_summary": "TechFlow embodies a professional and approachable SaaS technology brand targeting tech-savvy entrepreneurs and startup founders. The brand emphasizes innovation, trustworthiness, and clarity, using a clean and efficient visual style with a blue-centric color palette and modern typography. Communications maintain simplicity and avoid jargon, fostering an empowering and equal dialogue with its audience.",
+    "target_audience": "Tech-savvy entrepreneurs and startup founders aged 25-40"
+  },
+  "emotional_arc_map": {
+    "overall_emotional_tone": "Trust/Authority",
+    "emotional_segments": [
+      {
+        "timestamp_range": "0:00-0:10",
+        "dominant_emotion": "Frustration/Anger",
+        "intensity": "Medium",
+        "key_phrases": [
+          "Are you tired of spending hours on repetitive tasks?"
+        ],
+        "pacing_recommendation": "Medium"
+      },
+      {
+        "timestamp_range": "0:10-0:20",
+        "dominant_emotion": "Curiosity/Intrigue",
+        "intensity": "Medium",
+        "key_phrases": [
+          "Imagine having an AI assistant that actually understands your workflow.",
+          "Introducing TechFlow - the smart automation platform that learns from you."
+        ],
+        "pacing_recommendation": "Medium"
+      },
+      {
+        "timestamp_range": "0:20-0:30",
+        "dominant_emotion": "Joy/Excitement",
+        "intensity": "High",
+        "key_phrases": [
+          "In just 3 clicks, you can automate complex processes that used to take hours."
+        ],
+        "pacing_recommendation": "Fast"
+      },
+      {
+        "timestamp_range": "0:30-0:40",
+        "dominant_emotion": "Trust/Authority",
+        "intensity": "High",
+        "key_phrases": [
+          "Our customers have saved an average of 15 hours per week.",
+          "That's time you can spend on what really matters - growing your business."
+        ],
+        "pacing_recommendation": "Medium"
+      },
+      {
+        "timestamp_range": "0:40-0:50",
+        "dominant_emotion": "Urgency/Scarcity",
+        "intensity": "Medium",
+        "key_phrases": [
+          "Don't let manual work hold you back.",
+          "Try TechFlow free for 14 days. No credit card required."
+        ],
+        "pacing_recommendation": "Fast"
+      }
+    ],
+    "emotional_arc_summary": "The video begins by tapping into the audience's frustration with repetitive tasks, creating an emotional connection. It quickly shifts to curiosity by introducing an innovative AI solution, TechFlow, sparking interest. Excitement builds as the ease of automation is highlighted, followed by establishing trust through customer success and tangible time savings. The arc concludes with a sense of urgency and opportunity, encouraging immediate action with a risk-free trial.",
+    "hook_strategy": "Open with a relatable pain point about wasting time on repetitive tasks to immediately engage viewers who face this frustration.",
+    "climax_moment": "0:20-0:30 - Highlighting the simplicity and power of automating complex processes in just 3 clicks, evoking excitement and hope.",
+    "editing_rhythm": "Start with a moderate pace to build empathy and curiosity, accelerate briefly during the excitement peak, then moderate again to reinforce trust, and finish with a brisk pace to drive urgency and conversion."
+  },
+  "design_composition_plan": {
+    "platform_recommendations": {
+      "instagram_reels": {
+        "aspect_ratio": "9:16",
+        "optimal_length": "15-30 seconds",
+        "safe_zones": "Keep key text and logos within the center 80% of the frame to avoid cropping by UI elements",
+        "specific_considerations": "Use vertical full-screen framing, ensure logo placement is always clear and uncluttered in top-left or center aligned; subtitles or text overlays should be large and high-contrast for mobile readability; pacing should match Instagram\u2019s fast-scrolling audience with strong hook and visual clarity."
+      },
+      "youtube_shorts": {
+        "aspect_ratio": "9:16",
+        "optimal_length": "30-60 seconds",
+        "retention_target": "Aim for retention over 70% by balancing informative content and engaging visuals",
+        "specific_considerations": "Leverage slightly longer format to emphasize trust and authority with clear, confident messaging; maintain logo visibility top-left or center; use clean typography and avoid clutter; pacing should follow emotional arc with clear visual cues to maintain interest."
+      },
+      "tiktok": {
+        "aspect_ratio": "9:16",
+        "optimal_length": "15-30 seconds",
+        "trend_alignment": "Incorporate fast cuts and dynamic transitions especially during excitement and urgency segments; use popular motion graphic styles and subtle sound-reactive animations to boost engagement",
+        "specific_considerations": "Logo placement must be consistent but unobtrusive; use bold, contrasting text overlays for key phrases; capitalize on emotional arc peaks with energetic camera movements; adapt motion graphics to TikTok\u2019s playful yet professional tone."
+      }
+    },
+    "b_roll_shot_list": [
+      {
+        "timestamp": "0:00-0:10",
+        "shot_type": "Specific",
+        "description": "Close-up shots of a frustrated entrepreneur at their cluttered desk, rubbing forehead or looking overwhelmed by repetitive tasks on computer screens.",
+        "composition_rule": "Rule of Thirds to place subject off-center, emphasizing space filled with cluttered work environment",
+        "duration": "10s",
+        "emotion_alignment": "Frustration/Anger"
+      },
+      {
+        "timestamp": "0:10-0:20",
+        "shot_type": "Specific",
+        "description": "Medium shot of the entrepreneur\u2019s hand interacting with a sleek tablet showing the TechFlow AI assistant interface; screen shows dynamic, intuitive UI elements.",
+        "composition_rule": "Leading Lines directing viewer\u2019s eye from hand to screen interface",
+        "duration": "10s",
+        "emotion_alignment": "Curiosity/Intrigue"
+      },
+      {
+        "timestamp": "0:20-0:30",
+        "shot_type": "Specific",
+        "description": "Fast-paced montage of the entrepreneur completing automation tasks in 3 clicks; UI animations highlight simplicity and speed.",
+        "composition_rule": "Fill the Frame with UI and hand movements to emphasize ease and focus",
+        "duration": "10s",
+        "emotion_alignment": "Joy/Excitement"
+      },
+      {
+        "timestamp": "0:30-0:40",
+        "shot_type": "Broad",
+        "description": "Confident entrepreneur smiling, relaxed, working in a bright modern office; overlay of customer testimonials or stats subtly integrated.",
+        "composition_rule": "Central Composition to convey trust and authority",
+        "duration": "10s",
+        "emotion_alignment": "Trust/Authority"
+      },
+      {
+        "timestamp": "0:40-0:50",
+        "shot_type": "Specific",
+        "description": "Close-up of a countdown timer or limited offer graphic on screen, entrepreneur clicking \u2018Try Now\u2019 button; urgency emphasized by quick cuts.",
+        "composition_rule": "Symmetry for button and timer placement to draw focus",
+        "duration": "10s",
+        "emotion_alignment": "Urgency/Scarcity"
+      }
+    ],
+    "visual_composition_guide": {
+      "color_grading": "Use a clean, bright color grade emphasizing the primary blue (#0066FF) and secondary cyan (#00CCFF) tones with warm accent highlights (#FF6B35) to draw attention to calls to action; maintain high contrast for accessibility and clarity.",
+      "lighting_style": "Soft, natural lighting with slight cool tint during frustration and curiosity segments; transition to warmer, vibrant lighting during excitement and trust segments to evoke positivity and energy.",
+      "camera_movement": "Start with subtle slow zooms and pans to build empathy; accelerate to dynamic quick cuts and smooth tracking shots during excitement peak; stabilize with gentle steady shots for trust segment; end with brisk, punchy cuts to reinforce urgency.",
+      "framing_strategy": "Combine Rule of Thirds for emotional storytelling scenes, Leading Lines for UI interaction focus, and Central Composition for authority and trust moments; maintain clear space around logo as per brand rules; avoid cluttered backgrounds."
+    },
+    "motion_graphics_plan": [
+      {
+        "timestamp": "0:00-0:10",
+        "element_type": "text overlay",
+        "content": "Are you tired of spending hours on repetitive tasks?",
+        "style": "Montserrat Bold, primary color (#0066FF) with subtle drop shadow for legibility, positioned top third center aligned",
+        "duration": "10s"
+      },
+      {
+        "timestamp": "0:10-0:20",
+        "element_type": "animation",
+        "content": "Animated UI highlights showing AI assistant understanding workflow with glowing cyan (#00CCFF) lines connecting elements",
+        "style": "Clean vector animation with smooth easing, minimalistic style consistent with brand typography",
+        "duration": "10s"
+      },
+      {
+        "timestamp": "0:20-0:30",
+        "element_type": "text overlay",
+        "content": "In just 3 clicks, automate complex processes that used to take hours.",
+        "style": "Montserrat Bold, accent color (#FF6B35) to emphasize excitement, large size, centered bottom third",
+        "duration": "10s"
+      },
+      {
+        "timestamp": "0:30-0:40",
+        "element_type": "text overlay",
+        "content": "Our customers save 15 hours/week.\nSpend time growing your business.",
+        "style": "Inter Regular, white text on a semi-transparent blue overlay, balanced and easy to read, centered",
+        "duration": "10s"
+      },
+      {
+        "timestamp": "0:40-0:50",
+        "element_type": "transition",
+        "content": "Swipe transition with quick pulse effect on 'Try TechFlow Free for 14 Days' call to action",
+        "style": "Bold accent orange (#FF6B35) button animation with subtle bounce easing",
+        "duration": "5s"
+      },
+      {
+        "timestamp": "0:45-0:50",
+        "element_type": "text overlay",
+        "content": "No credit card required.",
+        "style": "Inter Regular, small size, white text placed just below CTA button for reassurance",
+        "duration": "5s"
+      }
+    ]
+  },
+  "conversion_optimization": {
+    "conversion_goal": "leads",
+    "hook_optimization": {
+      "first_3_seconds": "Start with a direct, emotionally charged question overlayed on the frustrated entrepreneur close-up: 'Drowning in repetitive tasks? Here's your lifeline.' Use a sudden visual zoom-in and a subtle sound effect to create a pattern interrupt.",
+      "pattern_interrupt": "Use a quick zoom and a sharp sound cue immediately after the opening question to break viewer expectations and grab attention.",
+      "open_loop_strategy": "Tease the solution by showing the frustrated entrepreneur but hinting at a transformation with a quick glimpse of the sleek AI interface, promising '3 clicks to reclaim your time' without revealing full details upfront."
+    },
+    "cta_strategy": [
+      {
+        "placement": "Pre-roll",
+        "timestamp": "0:04",
+        "cta_text": "Discover how to automate your work in 3 clicks!",
+        "visual_treatment": "Bold primary blue (#0066FF) text overlay with subtle drop shadow, positioned top center; accompanied by a small animated arrow pointing downwards to encourage watching further.",
+        "psychological_trigger": "Curiosity"
+      },
+      {
+        "placement": "Mid-roll",
+        "timestamp": "0:25",
+        "cta_text": "Ready to save 15 hours/week? Try TechFlow Free!",
+        "visual_treatment": "Large accent orange (#FF6B35) button animation with bounce easing, centered bottom third; semi-transparent blue overlay behind text for contrast; include a subtle countdown timer animation to induce urgency.",
+        "psychological_trigger": "Scarcity, Urgency"
+      },
+      {
+        "placement": "Post-roll",
+        "timestamp": "0:48",
+        "cta_text": "Start your 14-day free trial now \u2013 No credit card required!",
+        "visual_treatment": "Bold orange (#FF6B35) CTA button with pulse effect, accompanied by reassuring small white text below the button; clean layout with ample padding to avoid clutter.",
+        "psychological_trigger": "Reciprocity, Trust"
+      }
+    ],
+    "retention_hacks": [
+      {
+        "technique": "Emotional Arc Pacing",
+        "implementation": "Begin with frustration and empathy, transition to curiosity and intrigue with UI animations, peak excitement with fast-paced montage, then stabilize with trust-building testimonials before ending with urgency.",
+        "expected_impact": "Keeps viewers emotionally engaged throughout, increasing watch time and likelihood to convert."
+      },
+      {
+        "technique": "Visual Pattern Interrupts",
+        "implementation": "Use sudden zooms, quick cuts, and sound cues at key moments (start and pre-CTA) to recapture attention and prevent drop-off.",
+        "expected_impact": "Improves retention especially in the critical first 10 seconds and pre-CTA moments."
+      },
+      {
+        "technique": "Progressive Disclosure",
+        "implementation": "Reveal the product benefits gradually, starting with problem empathy, then intrigue with UI interaction, followed by social proof, and finally urgency with limited offer.",
+        "expected_impact": "Maintains curiosity and motivation to watch till the CTA."
+      }
+    ],
+    "ab_test_suggestions": [
+      {
+        "element": "hook",
+        "variant_a": "Emotional question with zoom and sound pattern interrupt",
+        "variant_b": "Direct statement of product benefit with calm visuals",
+        "hypothesis": "Adding emotional pattern interrupt will increase initial retention and engagement."
+      },
+      {
+        "element": "CTA",
+        "variant_a": "Mid-roll CTA with countdown timer and bounce animation",
+        "variant_b": "Mid-roll static CTA without timer or animation",
+        "hypothesis": "Animated CTA with urgency cues will increase click-through rates."
+      },
+      {
+        "element": "thumbnail",
+        "variant_a": "Frustrated entrepreneur close-up with bold text overlay",
+        "variant_b": "Bright, smiling entrepreneur with product UI visible",
+        "hypothesis": "Thumbnail showing problem state will generate more curiosity clicks."
+      }
+    ],
+    "psychological_triggers": {
+      "primary_trigger": "Curiosity",
+      "secondary_triggers": [
+        "Urgency",
+        "Scarcity",
+        "Social Proof",
+        "Reciprocity",
+        "Authority"
+      ],
+      "implementation_notes": "Lead with curiosity to hook viewers, then build trust and authority via testimonials and UI clarity. Use scarcity and urgency in CTAs to prompt immediate action. Offer reciprocity by emphasizing 'No credit card required' free trial to reduce friction."
+    }
+  }
+}

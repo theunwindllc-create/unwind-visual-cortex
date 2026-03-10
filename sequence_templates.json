@@ -1,0 +1,402 @@
+{
+  "template_version": "1.0",
+  "created_by": "Unwind Visual Cortex",
+  "last_updated": "2026-01-16",
+  "templates": {
+    "explainer_standard": {
+      "template_id": "explainer_standard",
+      "template_name": "Standard Explainer Video",
+      "description": "Professional explainer video with smooth transitions and clear structure. Ideal for product explanations, tutorials, and educational content.",
+      "video_type": "explainer",
+      "sequence_settings": {
+        "width": 1920,
+        "height": 1080,
+        "frameRate": 30,
+        "audioSampleRate": 48000,
+        "videoTrackCount": 3,
+        "audioTrackCount": 3,
+        "pixelAspectRatio": 1.0,
+        "fieldType": "progressive"
+      },
+      "default_transitions": {
+        "video": {
+          "name": "Cross Dissolve",
+          "duration_frames": 15,
+          "alignment": "center"
+        },
+        "audio": {
+          "name": "Constant Power",
+          "duration_frames": 15
+        }
+      },
+      "effects_presets": [
+        {
+          "name": "Color Correction",
+          "effect": "Lumetri Color",
+          "preset": "Cinematic - Cool Tone",
+          "track_type": "video",
+          "recommended_tracks": [1]
+        },
+        {
+          "name": "Noise Reduction",
+          "effect": "Denoise",
+          "preset": "Light",
+          "track_type": "audio",
+          "recommended_tracks": [1]
+        }
+      ],
+      "timeline_structure": {
+        "video_tracks": [
+          {
+            "track_number": 1,
+            "name": "Main Content",
+            "locked": false,
+            "description": "Primary video content - talking head or screen recording"
+          },
+          {
+            "track_number": 2,
+            "name": "B-Roll",
+            "locked": false,
+            "description": "Supporting footage and product shots"
+          },
+          {
+            "track_number": 3,
+            "name": "Graphics/Overlays",
+            "locked": false,
+            "description": "Text overlays, CTAs, and graphics"
+          }
+        ],
+        "audio_tracks": [
+          {
+            "track_number": 1,
+            "name": "Voiceover",
+            "locked": false,
+            "description": "Primary narration or dialogue"
+          },
+          {
+            "track_number": 2,
+            "name": "Music",
+            "locked": false,
+            "description": "Background music"
+          },
+          {
+            "track_number": 3,
+            "name": "SFX",
+            "locked": false,
+            "description": "Sound effects and ambient audio"
+          }
+        ]
+      },
+      "recommended_pacing": {
+        "average_shot_duration_seconds": 4.5,
+        "transition_frequency": "medium",
+        "cta_placement_strategy": "balanced"
+      },
+      "metadata": {
+        "created_by": "Unwind Visual Cortex",
+        "version": "1.0",
+        "recommended_for": ["product_explanation", "tutorial", "educational", "how_to"],
+        "typical_duration_range": "2-5 minutes",
+        "complexity": "medium"
+      }
+    },
+    "testimonial_authentic": {
+      "template_id": "testimonial_authentic",
+      "template_name": "Authentic Testimonial",
+      "description": "Customer testimonial template with authentic, emotional tone. Minimal transitions to maintain genuine feel.",
+      "video_type": "testimonial",
+      "sequence_settings": {
+        "width": 1920,
+        "height": 1080,
+        "frameRate": 24,
+        "audioSampleRate": 48000,
+        "videoTrackCount": 3,
+        "audioTrackCount": 3,
+        "pixelAspectRatio": 1.0,
+        "fieldType": "progressive"
+      },
+      "default_transitions": {
+        "video": {
+          "name": "Dip to Black",
+          "duration_frames": 12,
+          "alignment": "center"
+        },
+        "audio": {
+          "name": "Exponential Fade",
+          "duration_frames": 12
+        }
+      },
+      "effects_presets": [
+        {
+          "name": "Natural Color",
+          "effect": "Lumetri Color",
+          "preset": "Natural - Warm Skin Tones",
+          "track_type": "video",
+          "recommended_tracks": [1]
+        },
+        {
+          "name": "Interview Audio",
+          "effect": "Parametric Equalizer",
+          "preset": "Voice Enhancement",
+          "track_type": "audio",
+          "recommended_tracks": [1]
+        }
+      ],
+      "timeline_structure": {
+        "video_tracks": [
+          {
+            "track_number": 1,
+            "name": "Main Interview",
+            "locked": false,
+            "description": "Primary testimonial footage"
+          },
+          {
+            "track_number": 2,
+            "name": "B-Roll/Results",
+            "locked": false,
+            "description": "Product usage or results footage"
+          },
+          {
+            "track_number": 3,
+            "name": "Lower Thirds",
+            "locked": false,
+            "description": "Name, title, and text overlays"
+          }
+        ],
+        "audio_tracks": [
+          {
+            "track_number": 1,
+            "name": "Interview Audio",
+            "locked": false,
+            "description": "Primary testimonial audio"
+          },
+          {
+            "track_number": 2,
+            "name": "Background Music",
+            "locked": false,
+            "description": "Subtle emotional underscore"
+          },
+          {
+            "track_number": 3,
+            "name": "Ambient Sound",
+            "locked": false,
+            "description": "Environmental audio"
+          }
+        ]
+      },
+      "recommended_pacing": {
+        "average_shot_duration_seconds": 8.0,
+        "transition_frequency": "low",
+        "cta_placement_strategy": "minimal"
+      },
+      "metadata": {
+        "created_by": "Unwind Visual Cortex",
+        "version": "1.0",
+        "recommended_for": ["customer_testimonial", "case_study", "success_story", "review"],
+        "typical_duration_range": "1-3 minutes",
+        "complexity": "low"
+      }
+    },
+    "product_demo_dynamic": {
+      "template_id": "product_demo_dynamic",
+      "template_name": "Dynamic Product Demo",
+      "description": "High-energy product demonstration with quick cuts, zooms, and engaging pace. Perfect for feature showcases.",
+      "video_type": "product_demo",
+      "sequence_settings": {
+        "width": 1920,
+        "height": 1080,
+        "frameRate": 60,
+        "audioSampleRate": 48000,
+        "videoTrackCount": 4,
+        "audioTrackCount": 3,
+        "pixelAspectRatio": 1.0,
+        "fieldType": "progressive"
+      },
+      "default_transitions": {
+        "video": {
+          "name": "Impact Push",
+          "duration_frames": 10,
+          "alignment": "start"
+        },
+        "audio": {
+          "name": "Constant Power",
+          "duration_frames": 10
+        }
+      },
+      "effects_presets": [
+        {
+          "name": "Vibrant Colors",
+          "effect": "Lumetri Color",
+          "preset": "Vibrant - High Saturation",
+          "track_type": "video",
+          "recommended_tracks": [1, 2]
+        },
+        {
+          "name": "Motion Blur",
+          "effect": "Transform",
+          "preset": "Dynamic Movement",
+          "track_type": "video",
+          "recommended_tracks": [1, 2]
+        },
+        {
+          "name": "Audio Punch",
+          "effect": "Multiband Compressor",
+          "preset": "Punchy Mix",
+          "track_type": "audio",
+          "recommended_tracks": [2]
+        }
+      ],
+      "timeline_structure": {
+        "video_tracks": [
+          {
+            "track_number": 1,
+            "name": "Main Product",
+            "locked": false,
+            "description": "Primary product footage"
+          },
+          {
+            "track_number": 2,
+            "name": "Detail Shots",
+            "locked": false,
+            "description": "Close-up features and details"
+          },
+          {
+            "track_number": 3,
+            "name": "Graphics/CTAs",
+            "locked": false,
+            "description": "Feature callouts and CTAs"
+          },
+          {
+            "track_number": 4,
+            "name": "Transitions/Effects",
+            "locked": false,
+            "description": "Dynamic transitions and overlays"
+          }
+        ],
+        "audio_tracks": [
+          {
+            "track_number": 1,
+            "name": "Voiceover",
+            "locked": false,
+            "description": "Product narration"
+          },
+          {
+            "track_number": 2,
+            "name": "Upbeat Music",
+            "locked": false,
+            "description": "Energetic background music"
+          },
+          {
+            "track_number": 3,
+            "name": "Product SFX",
+            "locked": false,
+            "description": "Product sounds and whooshes"
+          }
+        ]
+      },
+      "recommended_pacing": {
+        "average_shot_duration_seconds": 2.5,
+        "transition_frequency": "high",
+        "cta_placement_strategy": "aggressive"
+      },
+      "metadata": {
+        "created_by": "Unwind Visual Cortex",
+        "version": "1.0",
+        "recommended_for": ["product_demo", "feature_showcase", "unboxing", "tech_review"],
+        "typical_duration_range": "1-4 minutes",
+        "complexity": "high"
+      }
+    },
+    "social_media_vertical": {
+      "template_id": "social_media_vertical",
+      "template_name": "Social Media Vertical",
+      "description": "Optimized for Instagram Reels, TikTok, and YouTube Shorts. Vertical format with fast-paced editing.",
+      "video_type": "social_media",
+      "sequence_settings": {
+        "width": 1080,
+        "height": 1920,
+        "frameRate": 30,
+        "audioSampleRate": 48000,
+        "videoTrackCount": 3,
+        "audioTrackCount": 2,
+        "pixelAspectRatio": 1.0,
+        "fieldType": "progressive"
+      },
+      "default_transitions": {
+        "video": {
+          "name": "Wipe",
+          "duration_frames": 8,
+          "alignment": "center"
+        },
+        "audio": {
+          "name": "Constant Power",
+          "duration_frames": 8
+        }
+      },
+      "effects_presets": [
+        {
+          "name": "Social Media Look",
+          "effect": "Lumetri Color",
+          "preset": "Instagram - Warm",
+          "track_type": "video",
+          "recommended_tracks": [1]
+        },
+        {
+          "name": "Vertical Crop",
+          "effect": "Crop",
+          "preset": "9:16 Safe Area",
+          "track_type": "video",
+          "recommended_tracks": [1]
+        }
+      ],
+      "timeline_structure": {
+        "video_tracks": [
+          {
+            "track_number": 1,
+            "name": "Main Content",
+            "locked": false,
+            "description": "Primary vertical video"
+          },
+          {
+            "track_number": 2,
+            "name": "Overlays",
+            "locked": false,
+            "description": "Text, stickers, and graphics"
+          },
+          {
+            "track_number": 3,
+            "name": "Captions",
+            "locked": false,
+            "description": "Auto-generated captions"
+          }
+        ],
+        "audio_tracks": [
+          {
+            "track_number": 1,
+            "name": "Main Audio",
+            "locked": false,
+            "description": "Voice or original audio"
+          },
+          {
+            "track_number": 2,
+            "name": "Trending Music",
+            "locked": false,
+            "description": "Background music or trending sound"
+          }
+        ]
+      },
+      "recommended_pacing": {
+        "average_shot_duration_seconds": 1.5,
+        "transition_frequency": "very_high",
+        "cta_placement_strategy": "aggressive"
+      },
+      "metadata": {
+        "created_by": "Unwind Visual Cortex",
+        "version": "1.0",
+        "recommended_for": ["instagram_reels", "tiktok", "youtube_shorts", "social_vertical"],
+        "typical_duration_range": "15-60 seconds",
+        "complexity": "medium"
+      }
+    }
+  }
+}

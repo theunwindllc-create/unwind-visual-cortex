@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "platform": "tiktok",
+    "conversion_goal": "shares",
+    "analysis_timestamp": "generated"
+  },
+  "brand_compliance_matrix": {
+    "logo_rules": {
+      "placement": "Maintain a clear space around the logo equal to the height of the letter 'F' in the logo to ensure visibility and impact. Avoid placing the logo too close to edges or other visual elements.",
+      "sizing": "Minimum logo width should be 50px for digital and 1 inch for print to maintain legibility. Do not stretch or distort the logo proportions.",
+      "usage_notes": "Use the primary color (#00FF00) version of the logo on dark backgrounds and the secondary color (#1E1E1E) version on light backgrounds. Avoid using the logo on busy or cluttered backgrounds. Do not use stock or altered versions of the logo."
+    },
+    "color_palette": {
+      "primary_color": "#00FF00",
+      "secondary_color": "#1E1E1E",
+      "accent_color": "#FFFF00",
+      "usage_ratio": "Apply the 60-30-10 rule: 60% secondary color (#1E1E1E) as background or base, 30% primary color (#00FF00) for dominant elements, and 10% accent color (#FFFF00) for highlights and calls to action.",
+      "emotional_mapping": "Primary green (#00FF00) evokes energy, vitality, and growth. Secondary dark gray (#1E1E1E) conveys strength, seriousness, and professionalism. Accent yellow (#FFFF00) adds optimism, motivation, and attention-grabbing vibrancy."
+    },
+    "typography": {
+      "heading_font": "Bebas Neue Bold",
+      "body_font": "Roboto Regular",
+      "min_size": "Headings minimum 24px; Body text minimum 14px for readability across devices.",
+      "contrast_requirements": "Ensure minimum contrast ratio of 4.5:1 between text and background colors to maintain accessibility and legibility."
+    },
+    "tone_of_voice": {
+      "personality": "Energetic, Motivational, No-nonsense, Authentic",
+      "language_style": "Direct, motivational, and real. Use straightforward language that inspires action without sugarcoating. Avoid fluff or vague statements.",
+      "forbidden_phrases": [
+        "easy way",
+        "quick fix",
+        "guaranteed results",
+        "perfect body",
+        "no effort"
+      ]
+    },
+    "brand_summary": "FitRevolution is a high-energy, authentic fitness coaching brand targeting health-conscious millennials and Gen Z. The brand emphasizes real transformations and motivational messaging without sugarcoating. Visuals must avoid stock footage, focusing instead on genuine, high-impact imagery. The color palette balances vibrant green energy with strong dark gray professionalism and optimistic yellow accents. Typography combines bold, impactful headings with clean, readable body text. All creative outputs must maintain a direct, no-nonsense tone that inspires real results.",
+    "target_audience": "Health-conscious millennials and Gen Z, ages 18-32"
+  },
+  "emotional_arc_map": {
+    "overall_emotional_tone": "Urgency/Scarcity",
+    "emotional_segments": [
+      {
+        "timestamp_range": "0:00-0:05",
+        "dominant_emotion": "Urgency/Scarcity",
+        "intensity": "High",
+        "key_phrases": [
+          "Stop doing cardio for fat loss.",
+          "I said what I said."
+        ],
+        "pacing_recommendation": "Fast"
+      },
+      {
+        "timestamp_range": "0:05-0:15",
+        "dominant_emotion": "Trust/Authority",
+        "intensity": "Medium",
+        "key_phrases": [
+          "Here's what actually works:",
+          "Progressive strength training, protein-first meals, and walking 8,000 steps daily."
+        ],
+        "pacing_recommendation": "Medium"
+      },
+      {
+        "timestamp_range": "0:15-0:25",
+        "dominant_emotion": "Trust/Authority",
+        "intensity": "High",
+        "key_phrases": [
+          "I've helped over 500 clients lose fat while building muscle",
+          "using this exact method."
+        ],
+        "pacing_recommendation": "Medium"
+      },
+      {
+        "timestamp_range": "0:25-0:35",
+        "dominant_emotion": "Curiosity/Intrigue",
+        "intensity": "High",
+        "key_phrases": [
+          "The fitness industry has been lying to you.",
+          "Ready for the truth?",
+          "Comment 'REAL' and I'll send you my free guide."
+        ],
+        "pacing_recommendation": "Fast"
+      }
+    ],
+    "emotional_arc_summary": "The video opens with a strong, urgent challenge to conventional wisdom, immediately grabbing attention with a bold statement. It then shifts to building trust and authority by presenting a clear, actionable alternative and social proof of success. Finally, it peaks with intrigue and a call-to-action that creates curiosity and a sense of exclusivity, motivating viewers to engage.",
+    "hook_strategy": "Start with a provocative and confident statement that directly challenges a common belief, creating immediate surprise and urgency to hook viewers.",
+    "climax_moment": "0:25-0:35 - The revelation that the fitness industry has been lying, combined with a direct invitation to comment and receive a free guide, serves as the emotional and motivational peak.",
+    "editing_rhythm": "Begin with a fast pace to capture attention, slow slightly to establish credibility and trust, then ramp up speed again toward the climax to maximize engagement and prompt immediate action."
+  },
+  "design_composition_plan": {
+    "platform_recommendations": {
+      "instagram_reels": {
+        "aspect_ratio": "9:16",
+        "optimal_length": "15-30 seconds",
+        "safe_zones": "Keep key text and logo within the central 80% of the frame vertically and horizontally to avoid cropping by UI elements.",
+        "specific_considerations": "Use bold, clear typography and high contrast visuals; avoid overly cluttered backgrounds to maintain brand clarity and legibility on small screens."
+      },
+      "youtube_shorts": {
+        "aspect_ratio": "9:16",
+        "optimal_length": "15-30 seconds",
+        "retention_target": "Aim for 70%+ viewer retention by pacing content with clear, direct messaging and visually engaging shots.",
+        "specific_considerations": "Leverage strong opening hooks and social proof visuals early to retain viewers; ensure logo visibility without overpowering content."
+      },
+      "tiktok": {
+        "aspect_ratio": "9:16",
+        "optimal_length": "15-25 seconds",
+        "trend_alignment": "Incorporate fast cuts and rhythmic editing aligned with trending sounds; use direct, motivational text overlays to boost engagement.",
+        "specific_considerations": "Prioritize authentic, high-impact footage avoiding stock; use vibrant green (#00FF00) and yellow (#FFFF00) accents for calls to action; maintain fast pacing at start and end with a slight slow middle."
+      }
+    },
+    "b_roll_shot_list": [
+      {
+        "timestamp": "0:00-0:05",
+        "shot_type": "Specific",
+        "description": "Close-up of a determined young adult stopping a treadmill or cardio machine abruptly, showing frustration and decisiveness.",
+        "composition_rule": "Fill the Frame with central composition to emphasize urgency and focus on subject's expression.",
+        "duration": "5 seconds",
+        "emotion_alignment": "Urgency/Scarcity"
+      },
+      {
+        "timestamp": "0:05-0:10",
+        "shot_type": "Specific",
+        "description": "Medium shot of a coach demonstrating progressive strength training exercises with clear form, in a clean gym environment with dark gray (#1E1E1E) background.",
+        "composition_rule": "Rule of Thirds to position coach on one side, leaving space for text overlays on the other.",
+        "duration": "5 seconds",
+        "emotion_alignment": "Trust/Authority"
+      },
+      {
+        "timestamp": "0:10-0:15",
+        "shot_type": "Specific",
+        "description": "Close-up of a protein-rich meal being prepared or plated, focusing on vibrant greens and yellows to align with brand colors.",
+        "composition_rule": "Fill the Frame with leading lines from utensils or hands guiding viewer\u2019s eye.",
+        "duration": "5 seconds",
+        "emotion_alignment": "Trust/Authority"
+      },
+      {
+        "timestamp": "0:15-0:20",
+        "shot_type": "Specific",
+        "description": "Wide shot of a client walking outdoors in natural light, wearing branded apparel, showing progress and vitality.",
+        "composition_rule": "Leading Lines with path or sidewalk guiding viewer\u2019s eye forward to symbolize progress.",
+        "duration": "5 seconds",
+        "emotion_alignment": "Trust/Authority"
+      },
+      {
+        "timestamp": "0:20-0:25",
+        "shot_type": "Specific",
+        "description": "Medium shot of coach speaking confidently to camera, with subtle motion to convey authority and authenticity.",
+        "composition_rule": "Central Composition with slight headroom; background uses secondary color (#1E1E1E) for professionalism.",
+        "duration": "5 seconds",
+        "emotion_alignment": "Trust/Authority"
+      },
+      {
+        "timestamp": "0:25-0:30",
+        "shot_type": "Specific",
+        "description": "Dynamic close-up of a finger tapping on a phone screen to comment 'REAL', with yellow accent highlights on the screen edges.",
+        "composition_rule": "Fill the Frame emphasizing the call to action; use symmetry to focus attention.",
+        "duration": "5 seconds",
+        "emotion_alignment": "Curiosity/Intrigue"
+      },
+      {
+        "timestamp": "0:30-0:35",
+        "shot_type": "Broad",
+        "description": "Atmospheric shot of a dimly lit gym with green accent lighting highlighting equipment, creating intrigue and exclusivity.",
+        "composition_rule": "Balance with dark shadows and green highlights; use Rule of Thirds for placement of equipment.",
+        "duration": "5 seconds",
+        "emotion_alignment": "Curiosity/Intrigue"
+      }
+    ],
+    "visual_composition_guide": {
+      "color_grading": "Use a high-contrast grade emphasizing the brand's secondary dark gray (#1E1E1E) as base with vivid primary green (#00FF00) highlights on key elements and subtle yellow (#FFFF00) accents for calls to action. Maintain natural skin tones with slight warmth to convey vitality.",
+      "lighting_style": "Employ strong, directional lighting with soft shadows to create depth and focus on subjects\u2019 expressions and movements. Use backlighting or rim lights with green gels selectively to reinforce brand identity and energy.",
+      "camera_movement": "Use dynamic but controlled camera movements such as smooth push-ins, subtle pans, and tracking shots during strength training and meal prep to convey action and professionalism. Employ quick cuts and zooms during urgency segments to heighten energy.",
+      "framing_strategy": "Combine central composition for emotional impact and authority shots, Rule of Thirds for balanced storytelling frames, and Fill the Frame for intimacy and urgency. Use leading lines to guide viewer focus on progression and actions."
+    },
+    "motion_graphics_plan": [
+      {
+        "timestamp": "0:00-0:05",
+        "element_type": "text overlay",
+        "content": "\"Stop doing cardio for fat loss. I said what I said.\"",
+        "style": "Bold Bebas Neue font in primary green (#00FF00) with subtle drop shadow on dark background, animated with a fast typewriter effect",
+        "duration": "5 seconds"
+      },
+      {
+        "timestamp": "0:05-0:15",
+        "element_type": "text overlay",
+        "content": "\"Here's what actually works: Progressive strength training, protein-first meals, and walking 8,000 steps daily.\"",
+        "style": "Bebas Neue Bold for headings and Roboto Regular for body text, primarily white text on dark gray background with green accent highlights on key phrases, fade in/out transitions",
+        "duration": "10 seconds"
+      },
+      {
+        "timestamp": "0:15-0:25",
+        "element_type": "text overlay",
+        "content": "\"I've helped over 500 clients lose fat while building muscle using this exact method.\"",
+        "style": "Bold white text with yellow (#FFFF00) underline emphasis on '500 clients' and 'exact method', smooth slide-in from left",
+        "duration": "10 seconds"
+      },
+      {
+        "timestamp": "0:25-0:35",
+        "element_type": "text overlay",
+        "content": "\"The fitness industry has been lying to you. Ready for the truth? Comment 'REAL' and I'll send you my free guide.\"",
+        "style": "Dynamic Bebas Neue Bold in yellow (#FFFF00) with green shadow, rapid pulse animation to create urgency, plus a subtle animated arrow pointing to comment area",
+        "duration": "10 seconds"
+      },
+      {
+        "timestamp": "0:30-0:35",
+        "element_type": "transition",
+        "content": "Quick glitch effect transition to final call-to-action shot",
+        "style": "Subtle digital glitch with green and yellow color flashes",
+        "duration": "1 second"
+      }
+    ]
+  },
+  "conversion_optimization": {
+    "conversion_goal": "shares",
+    "hook_optimization": {
+      "first_3_seconds": "Start with the bold, curiosity-piquing text overlay 'Stop doing cardio for fat loss. I said what I said.' paired with a close-up of a determined young adult stopping the treadmill abruptly to create a strong pattern interrupt and immediate emotional engagement.",
+      "pattern_interrupt": "Use fast typewriter effect on bold green text combined with quick zoom-in camera movement on the subject's intense expression to break viewer expectations and grab attention instantly.",
+      "open_loop_strategy": "Tease the 'truth' behind fat loss myths and hint at a free guide available via comment 'REAL' to create curiosity and compel viewers to stay for the resolution."
+    },
+    "cta_strategy": [
+      {
+        "placement": "Pre-roll",
+        "timestamp": "0:00-0:05",
+        "cta_text": "Watch till the end to discover the truth about fat loss!",
+        "visual_treatment": "Bold green text overlay with subtle drop shadow on dark background, animated with fast typewriter effect to stand out immediately.",
+        "psychological_trigger": "Curiosity"
+      },
+      {
+        "placement": "Mid-roll",
+        "timestamp": "0:20-0:25",
+        "cta_text": "Join 500+ clients transforming their bodies \u2014 comment 'REAL' now!",
+        "visual_treatment": "Yellow bold text with green shadow and smooth slide-in animation, accompanied by coach speaking confidently to camera to reinforce authority and social proof.",
+        "psychological_trigger": "Social Proof"
+      },
+      {
+        "placement": "Post-roll",
+        "timestamp": "0:30-0:35",
+        "cta_text": "The fitness industry has been lying. Comment 'REAL' for your FREE guide!",
+        "visual_treatment": "Dynamic yellow Bebas Neue Bold text with green shadow, rapid pulse animation, animated arrow pointing to comment area, and subtle glitch transition to create urgency and highlight exclusivity.",
+        "psychological_trigger": "Urgency"
+      }
+    ],
+    "retention_hacks": [
+      {
+        "technique": "Strong emotional hook with pattern interrupt",
+        "implementation": "Use a close-up of frustration and decisiveness paired with a provocative statement in the first 5 seconds to shock and engage viewers immediately.",
+        "expected_impact": "Boosts early retention by preventing scroll-away within first 3 seconds."
+      },
+      {
+        "technique": "Open loop with promised payoff",
+        "implementation": "Introduce a mystery about fat loss myths and promise a free guide via comment, encouraging viewers to watch till the end for resolution.",
+        "expected_impact": "Increases mid-to-late video retention by maintaining curiosity."
+      },
+      {
+        "technique": "Use of social proof and authority",
+        "implementation": "Showcase the coach and client success stats visually and verbally around mid-video to build trust and credibility.",
+        "expected_impact": "Enhances viewer trust, reducing drop-off and increasing shares."
+      },
+      {
+        "technique": "Dynamic pacing with rhythmic editing",
+        "implementation": "Employ fast cuts and rhythmic text animations at start and end, with a slight slow middle to maintain viewer interest without fatigue.",
+        "expected_impact": "Maintains viewer engagement and emotional energy throughout the video."
+      }
+    ],
+    "ab_test_suggestions": [
+      {
+        "element": "hook",
+        "variant_a": "Start with provocative statement and treadmill stop close-up",
+        "variant_b": "Start with coach confidently stating 'Here's what actually works' and strength training shot",
+        "hypothesis": "The provocative personal frustration hook will generate higher initial retention and shares due to stronger emotional engagement."
+      },
+      {
+        "element": "CTA text",
+        "variant_a": "Comment 'REAL' for free guide",
+        "variant_b": "Click link in bio for free guide",
+        "hypothesis": "Comment-based CTA will drive more shares and engagement on platforms favoring in-app interactions like Instagram and TikTok."
+      },
+      {
+        "element": "thumbnail",
+        "variant_a": "Close-up of determined young adult with bold green text overlay",
+        "variant_b": "Coach mid-speech with yellow accent text overlay",
+        "hypothesis": "Thumbnail featuring emotional human expression with bold text will attract more clicks and improve overall engagement."
+      }
+    ],
+    "psychological_triggers": {
+      "primary_trigger": "Curiosity",
+      "secondary_triggers": [
+        "Urgency",
+        "Social Proof",
+        "Authority"
+      ],
+      "implementation_notes": "Leverage curiosity through provocative opening statements and open loops; build urgency with animated CTAs and limited-time free guide offers; reinforce social proof by highlighting 500+ client successes; establish authority via confident coach presence and professional visuals to maximize shares and viewer trust."
+    }
+  }
+}

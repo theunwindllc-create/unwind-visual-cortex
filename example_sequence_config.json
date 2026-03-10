@@ -1,0 +1,103 @@
+{
+  "sequence_name": "My Product Explainer",
+  "template_id": "explainer_standard",
+  "template_name": "Standard Explainer Video",
+  "sequence_settings": {
+    "width": 1920,
+    "height": 1080,
+    "frameRate": 60,
+    "audioSampleRate": 48000,
+    "videoTrackCount": 3,
+    "audioTrackCount": 3,
+    "pixelAspectRatio": 1.0,
+    "fieldType": "progressive"
+  },
+  "timeline_structure": {
+    "video_tracks": [
+      {
+        "track_number": 1,
+        "name": "Main Content",
+        "locked": false,
+        "description": "Primary video content - talking head or screen recording"
+      },
+      {
+        "track_number": 2,
+        "name": "B-Roll",
+        "locked": false,
+        "description": "Supporting footage and product shots"
+      },
+      {
+        "track_number": 3,
+        "name": "Graphics/Overlays",
+        "locked": false,
+        "description": "Text overlays, CTAs, and graphics"
+      }
+    ],
+    "audio_tracks": [
+      {
+        "track_number": 1,
+        "name": "Voiceover",
+        "locked": false,
+        "description": "Primary narration or dialogue"
+      },
+      {
+        "track_number": 2,
+        "name": "Music",
+        "locked": false,
+        "description": "Background music"
+      },
+      {
+        "track_number": 3,
+        "name": "SFX",
+        "locked": false,
+        "description": "Sound effects and ambient audio"
+      }
+    ]
+  },
+  "default_transitions": {
+    "video": {
+      "name": "Cross Dissolve",
+      "duration_frames": 15,
+      "alignment": "center"
+    },
+    "audio": {
+      "name": "Constant Power",
+      "duration_frames": 15
+    }
+  },
+  "effects_presets": [
+    {
+      "name": "Color Correction",
+      "effect": "Lumetri Color",
+      "preset": "Cinematic - Cool Tone",
+      "track_type": "video",
+      "recommended_tracks": [
+        1
+      ]
+    },
+    {
+      "name": "Noise Reduction",
+      "effect": "Denoise",
+      "preset": "Light",
+      "track_type": "audio",
+      "recommended_tracks": [
+        1
+      ]
+    }
+  ],
+  "recommended_pacing": {
+    "average_shot_duration_seconds": 4.5,
+    "transition_frequency": "medium",
+    "cta_placement_strategy": "balanced"
+  },
+  "metadata": {
+    "generated_by": "Unwind Visual Cortex",
+    "generated_at": "2026-01-16T09:07:41.021940",
+    "template_version": "1.0",
+    "brand_colors": [
+      "#FF5733",
+      "#3498DB",
+      "#2ECC71"
+    ]
+  }
+}

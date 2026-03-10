@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Unwind Visual Cortex</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            padding: 20px;
+            margin: 0;
+            background: #2d2d2d;
+            color: #e0e0e0;
+        }
+        
+        h1 {
+            font-size: 18px;
+            margin: 0 0 20px 0;
+            color: #ffffff;
+        }
+        
+        .status {
+            padding: 10px;
+            border-radius: 4px;
+            margin-bottom: 15px;
+            font-size: 13px;
+        }
+        
+        .status.disconnected {
+            background: #5a2a2a;
+            border: 1px solid #8b3a3a;
+        }
+        
+        .status.connected {
+            background: #2a5a2a;
+            border: 1px solid #3a8b3a;
+        }
+        
+        .status.connecting {
+            background: #5a5a2a;
+            border: 1px solid #8b8b3a;
+        }
+        
+        button {
+            background: #0078d4;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 13px;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+        
+        button:hover {
+            background: #106ebe;
+        }
+        
+        button:disabled {
+            background: #555;
+            cursor: not-allowed;
+        }
+        
+        .log {
+            background: #1e1e1e;
+            border: 1px solid #3e3e3e;
+            border-radius: 4px;
+            padding: 10px;
+            margin-top: 15px;
+            max-height: 200px;
+            overflow-y: auto;
+            font-family: 'Courier New', monospace;
+            font-size: 11px;
+        }
+        
+        .log-entry {
+            margin-bottom: 5px;
+            padding: 3px 0;
+        }
+        
+        .log-entry.info {
+            color: #4ec9b0;
+        }
+        
+        .log-entry.error {
+            color: #f48771;
+        }
+        
+        .log-entry.success {
+            color: #b5cea8;
+        }
+    </style>
+</head>
+<body>
+    <h1>🧠 Unwind Visual Cortex</h1>
+    
+    <div id="status" class="status disconnected">
+        ⚫ Disconnected from server
+    </div>
+    
+    <div>
+        <button id="connectBtn" onclick="connect()">Connect to Server</button>
+        <button id="testBtn" onclick="sendTestCommand()" disabled>Send Test Command</button>
+        <button id="clearBtn" onclick="clearLog()">Clear Log</button>
+    </div>
+    
+    <div class="log" id="log">
+        <div class="log-entry info">Plugin loaded. Click "Connect to Server" to begin.</div>
+    </div>
+    
+    <script src="dist/index.js"></script>
+    <script>
+        // Global functions for button handlers
+        function connect() {
+            if (window.unwindPlugin) {
+                window.unwindPlugin.connect();
+            }
+        }
+        
+        function sendTestCommand() {
+            if (window.unwindPlugin) {
+                window.unwindPlugin.sendTestCommand();
+            }
+        }
+        
+        function clearLog() {
+            document.getElementById('log').innerHTML = '';
+        }
+    </script>
+</body>
+</html>

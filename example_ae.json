@@ -1,0 +1,320 @@
+{
+  "project_metadata": {
+    "project_name": "TechFlow embodies a professional and approachable SaaS technology brand targeting tech-savvy entrepreneurs and startup founders. The brand emphasizes innovation, trustworthiness, and clarity, using a clean and efficient visual style with a blue-centric color palette and modern typography. Communications maintain simplicity and avoid jargon, fostering an empowering and equal dialogue with its audience.",
+    "platform": "all",
+    "conversion_goal": "leads",
+    "target_audience": "Tech-savvy entrepreneurs and startup founders aged 25-40",
+    "generated_date": "2026-01-10T09:10:01.710731",
+    "unwind_version": "1.0"
+  },
+  "brand": {
+    "typography": {
+      "heading_font": "Montserrat Bold",
+      "body_font": "Inter Regular",
+      "min_heading_size": 24,
+      "min_body_size": 16,
+      "contrast_ratio": "Text must have a minimum contrast ratio of 4.5:1 against background colors to ensure accessibility and clarity."
+    }
+  },
+  "text_layers": [
+    {
+      "layer_id": "text_01",
+      "layer_name": "Text Layer 1",
+      "text_content": "Are you tired of spending hours on repetitive tasks?",
+      "font_family": "Montserrat Bold",
+      "font_size": 48,
+      "color_hex": "#0066FF",
+      "color_rgb": [
+        0.0,
+        0.4,
+        1.0
+      ],
+      "position": "top_third",
+      "in_time": 0,
+      "out_time": 10.0,
+      "duration": 10.0,
+      "style_notes": "Montserrat Bold, primary color (#0066FF) with subtle drop shadow for legibility, positioned top third center aligned"
+    },
+    {
+      "layer_id": "text_02",
+      "layer_name": "Text Layer 2",
+      "text_content": "In just 3 clicks, automate complex processes that used to take hours.",
+      "font_family": "Montserrat Bold",
+      "font_size": 72,
+      "color_hex": "#FF6B35",
+      "color_rgb": [
+        1.0,
+        0.42,
+        0.208
+      ],
+      "position": "bottom_third",
+      "in_time": 20,
+      "out_time": 30.0,
+      "duration": 10.0,
+      "style_notes": "Montserrat Bold, accent color (#FF6B35) to emphasize excitement, large size, centered bottom third"
+    },
+    {
+      "layer_id": "text_03",
+      "layer_name": "Text Layer 3",
+      "text_content": "Our customers save 15 hours/week.\nSpend time growing your business.",
+      "font_family": "Inter Regular",
+      "font_size": 48,
+      "color_hex": "#FFFFFF",
+      "color_rgb": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "position": "center",
+      "in_time": 30,
+      "out_time": 40.0,
+      "duration": 10.0,
+      "style_notes": "Inter Regular, white text on a semi-transparent blue overlay, balanced and easy to read, centered"
+    },
+    {
+      "layer_id": "text_04",
+      "layer_name": "Text Layer 4",
+      "text_content": "No credit card required.",
+      "font_family": "Inter Regular",
+      "font_size": 24,
+      "color_hex": "#FFFFFF",
+      "color_rgb": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "position": "center",
+      "in_time": 45,
+      "out_time": 50.0,
+      "duration": 5.0,
+      "style_notes": "Inter Regular, small size, white text placed just below CTA button for reassurance"
+    }
+  ],
+  "broll_clips": [
+    {
+      "clip_id": "broll_01",
+      "clip_name": "B-Roll 1",
+      "description": "Close-up shots of a frustrated entrepreneur at their cluttered desk, rubbing forehead or looking overwhelmed by repetitive tasks on computer screens.",
+      "shot_type": "Specific",
+      "composition_rule": "Rule of Thirds to place subject off-center, emphasizing space filled with cluttered work environment",
+      "emotion_alignment": "Frustration/Anger",
+      "in_time": 0,
+      "out_time": 10,
+      "duration": 10,
+      "file_path": "",
+      "search_query": "Close-up shots of a frustrated entrepreneur at their cluttered desk, rubbing forehead or looking overwhelmed by repetitive tasks on computer screens."
+    },
+    {
+      "clip_id": "broll_02",
+      "clip_name": "B-Roll 2",
+      "description": "Medium shot of the entrepreneur’s hand interacting with a sleek tablet showing the TechFlow AI assistant interface; screen shows dynamic, intuitive UI elements.",
+      "shot_type": "Specific",
+      "composition_rule": "Leading Lines directing viewer’s eye from hand to screen interface",
+      "emotion_alignment": "Curiosity/Intrigue",
+      "in_time": 10,
+      "out_time": 20,
+      "duration": 10,
+      "file_path": "",
+      "search_query": "Medium shot of the entrepreneur’s hand interacting with a sleek tablet showing the TechFlow AI assistant interface; screen shows dynamic, intuitive UI elements."
+    },
+    {
+      "clip_id": "broll_03",
+      "clip_name": "B-Roll 3",
+      "description": "Fast-paced montage of the entrepreneur completing automation tasks in 3 clicks; UI animations highlight simplicity and speed.",
+      "shot_type": "Specific",
+      "composition_rule": "Fill the Frame with UI and hand movements to emphasize ease and focus",
+      "emotion_alignment": "Joy/Excitement",
+      "in_time": 20,
+      "out_time": 30,
+      "duration": 10,
+      "file_path": "",
+      "search_query": "Fast-paced montage of the entrepreneur completing automation tasks in 3 clicks; UI animations highlight simplicity and speed."
+    },
+    {
+      "clip_id": "broll_04",
+      "clip_name": "B-Roll 4",
+      "description": "Confident entrepreneur smiling, relaxed, working in a bright modern office; overlay of customer testimonials or stats subtly integrated.",
+      "shot_type": "Broad",
+      "composition_rule": "Central Composition to convey trust and authority",
+      "emotion_alignment": "Trust/Authority",
+      "in_time": 30,
+      "out_time": 40,
+      "duration": 10,
+      "file_path": "",
+      "search_query": "Confident entrepreneur smiling, relaxed, working in a bright modern office; overlay of customer testimonials or stats subtly integrated."
+    },
+    {
+      "clip_id": "broll_05",
+      "clip_name": "B-Roll 5",
+      "description": "Close-up of a countdown timer or limited offer graphic on screen, entrepreneur clicking ‘Try Now’ button; urgency emphasized by quick cuts.",
+      "shot_type": "Specific",
+      "composition_rule": "Symmetry for button and timer placement to draw focus",
+      "emotion_alignment": "Urgency/Scarcity",
+      "in_time": 40,
+      "out_time": 50,
+      "duration": 10,
+      "file_path": "",
+      "search_query": "Close-up of a countdown timer or limited offer graphic on screen, entrepreneur clicking ‘Try Now’ button; urgency emphasized by quick cuts."
+    }
+  ],
+  "motion_graphics": [
+    {
+      "element_id": "mg_01",
+      "element_name": "Motion Graphics 1",
+      "type": "animation",
+      "description": "Animated UI highlights showing AI assistant understanding workflow with glowing cyan (#00CCFF) lines connecting elements",
+      "style": "Clean vector animation with smooth easing, minimalistic style consistent with brand typography",
+      "in_time": 10,
+      "out_time": 20.0,
+      "duration": 10.0
+    },
+    {
+      "element_id": "mg_02",
+      "element_name": "Motion Graphics 2",
+      "type": "transition",
+      "description": "Swipe transition with quick pulse effect on 'Try TechFlow Free for 14 Days' call to action",
+      "style": "Bold accent orange (#FF6B35) button animation with subtle bounce easing",
+      "in_time": 40,
+      "out_time": 45.0,
+      "duration": 5.0
+    }
+  ],
+  "color_palette": {
+    "primary": {
+      "hex": "#0066FF",
+      "rgb": [
+        0.0,
+        0.4,
+        1.0
+      ],
+      "name": "Primary"
+    },
+    "secondary": {
+      "hex": "#00CCFF",
+      "rgb": [
+        0.0,
+        0.8,
+        1.0
+      ],
+      "name": "Secondary"
+    },
+    "accent": {
+      "hex": "#FF6B35",
+      "rgb": [
+        1.0,
+        0.42,
+        0.208
+      ],
+      "name": "Accent"
+    },
+    "usage_ratio": "Apply the 60-30-10 rule: 60% primary (#0066FF), 30% secondary (#00CCFF), 10% accent (#FF6B35) to maintain brand balance and visual hierarchy.",
+    "emotional_mapping": "Primary blue (#0066FF) conveys trust and professionalism; secondary cyan (#00CCFF) suggests innovation and approachability; accent orange (#FF6B35) adds energy and highlights calls to action."
+  },
+  "timing": {
+    "overall_tone": "Trust/Authority",
+    "hook_strategy": "Open with a relatable pain point about wasting time on repetitive tasks to immediately engage viewers who face this frustration.",
+    "climax_moment": "0:20-0:30 - Highlighting the simplicity and power of automating complex processes in just 3 clicks, evoking excitement and hope.",
+    "editing_rhythm": "Start with a moderate pace to build empathy and curiosity, accelerate briefly during the excitement peak, then moderate again to reinforce trust, and finish with a brisk pace to drive urgency and conversion.",
+    "segments": [
+      {
+        "start_time": 0,
+        "end_time": 10,
+        "duration": 10,
+        "emotion": "Frustration/Anger",
+        "intensity": "Medium",
+        "pacing": "Medium",
+        "key_phrases": [
+          "Are you tired of spending hours on repetitive tasks?"
+        ]
+      },
+      {
+        "start_time": 10,
+        "end_time": 20,
+        "duration": 10,
+        "emotion": "Curiosity/Intrigue",
+        "intensity": "Medium",
+        "pacing": "Medium",
+        "key_phrases": [
+          "Imagine having an AI assistant that actually understands your workflow.",
+          "Introducing TechFlow - the smart automation platform that learns from you."
+        ]
+      },
+      {
+        "start_time": 20,
+        "end_time": 30,
+        "duration": 10,
+        "emotion": "Joy/Excitement",
+        "intensity": "High",
+        "pacing": "Fast",
+        "key_phrases": [
+          "In just 3 clicks, you can automate complex processes that used to take hours."
+        ]
+      },
+      {
+        "start_time": 30,
+        "end_time": 40,
+        "duration": 10,
+        "emotion": "Trust/Authority",
+        "intensity": "High",
+        "pacing": "Medium",
+        "key_phrases": [
+          "Our customers have saved an average of 15 hours per week.",
+          "That's time you can spend on what really matters - growing your business."
+        ]
+      },
+      {
+        "start_time": 40,
+        "end_time": 50,
+        "duration": 10,
+        "emotion": "Urgency/Scarcity",
+        "intensity": "Medium",
+        "pacing": "Fast",
+        "key_phrases": [
+          "Don't let manual work hold you back.",
+          "Try TechFlow free for 14 days. No credit card required."
+        ]
+      }
+    ]
+  },
+  "conversion_elements": {
+    "ctas": [
+      {
+        "placement": "Pre-roll",
+        "in_time": 4,
+        "cta_text": "Discover how to automate your work in 3 clicks!",
+        "visual_treatment": "Bold primary blue (#0066FF) text overlay with subtle drop shadow, positioned top center; accompanied by a small animated arrow pointing downwards to encourage watching further.",
+        "psychological_trigger": "Curiosity"
+      },
+      {
+        "placement": "Mid-roll",
+        "in_time": 25,
+        "cta_text": "Ready to save 15 hours/week? Try TechFlow Free!",
+        "visual_treatment": "Large accent orange (#FF6B35) button animation with bounce easing, centered bottom third; semi-transparent blue overlay behind text for contrast; include a subtle countdown timer animation to induce urgency.",
+        "psychological_trigger": "Scarcity, Urgency"
+      },
+      {
+        "placement": "Post-roll",
+        "in_time": 48,
+        "cta_text": "Start your 14-day free trial now – No credit card required!",
+        "visual_treatment": "Bold orange (#FF6B35) CTA button with pulse effect, accompanied by reassuring small white text below the button; clean layout with ample padding to avoid clutter.",
+        "psychological_trigger": "Reciprocity, Trust"
+      }
+    ],
+    "hook_optimization": {
+      "first_3_seconds": "Start with a direct, emotionally charged question overlayed on the frustrated entrepreneur close-up: 'Drowning in repetitive tasks? Here's your lifeline.' Use a sudden visual zoom-in and a subtle sound effect to create a pattern interrupt.",
+      "pattern_interrupt": "Use a quick zoom and a sharp sound cue immediately after the opening question to break viewer expectations and grab attention.",
+      "open_loop_strategy": "Tease the solution by showing the frustrated entrepreneur but hinting at a transformation with a quick glimpse of the sleek AI interface, promising '3 clicks to reclaim your time' without revealing full details upfront."
+    },
+    "psychological_triggers": {
+      "primary_trigger": "Curiosity",
+      "secondary_triggers": [
+        "Urgency",
+        "Scarcity",
+        "Social Proof",
+        "Reciprocity",
+        "Authority"
+      ],
+      "implementation_notes": "Lead with curiosity to hook viewers, then build trust and authority via testimonials and UI clarity. Use scarcity and urgency in CTAs to prompt immediate action. Offer reciprocity by emphasizing 'No credit card required' free trial to reduce friction."
+    }
+  }
+}

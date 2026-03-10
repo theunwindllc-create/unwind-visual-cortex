@@ -1,0 +1,40 @@
+{
+  "markers": [
+    {
+      "name": "CTA: Like & Comment CTA",
+      "time": "00:00:08:00",
+      "duration": "00:00:05:00",
+      "type": "comment",
+      "comment": "Early engagement hook - Like this video and leave a comment!",
+      "ctaType": "like",
+      "ctaMessage": "Like this video and leave a comment!",
+      "ctaAction": "video_like",
+      "confidence": 0.85
+    },
+    {
+      "name": "CTA: Subscribe CTA",
+      "time": "00:00:40:15",
+      "duration": "00:00:05:00",
+      "type": "comment",
+      "comment": "Peak engagement point - Subscribe to Tech Innovators for more content!",
+      "ctaType": "subscribe",
+      "ctaMessage": "Subscribe to Tech Innovators for more content!",
+      "ctaAction": "channel_subscribe",
+      "confidence": 0.85
+    },
+    {
+      "name": "CTA: Visit Website CTA",
+      "time": "00:01:18:08",
+      "duration": "00:00:05:00",
+      "type": "comment",
+      "comment": "Final conversion opportunity - Visit Tech Innovators website for more info",
+      "ctaType": "visit",
+      "ctaMessage": "Visit Tech Innovators website for more info",
+      "ctaAction": "https://example.com",
+      "confidence": 0.85
+    }
+  ],
+  "generator": "Unwind Visual Cortex CTA Marker Generator",
+  "version": "1.0",
+  "total_markers": 3
+}
