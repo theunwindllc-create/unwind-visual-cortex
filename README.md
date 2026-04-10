@@ -389,3 +389,22 @@ print(brain.generate_human_readable_report(blueprint))
 ```
 
 For detailed examples, see `test_cases.py` in the project directory.
+
+
+## Viral Video Scripting Agent (deterministic baseline)
+
+This repository also includes a lightweight, stdlib-only scripting agent core that generates a structured ScriptDocument
+(segments + on-screen text + pacing notes) and scores it deterministically with a bounded refinement loop.
+
+Run:
+
+python scripting_agent_cli.py "Tema del Reel: ..." --duration 45 --platform "Instagram Reels" --threshold 75
+
+Output:
+- script_document with segments
+- virality_score (overall_score + pass_threshold)
+- trace (gate-by-gate log)
+
+Integration note:
+Unwind Visual Cortex (Creator-OS) contains richer scripting logic in the main deployments. This baseline is intended
+to be portable so other contributors can build on the same conceptual pipeline.

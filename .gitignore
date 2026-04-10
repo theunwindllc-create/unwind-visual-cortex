@@ -17,3 +17,6 @@ Thumbs.db
 
 # Environment
 .env
+
+# Ignore scripting agent memory store (local runtime cache)
+.unwind_scripting_agent_memory/
